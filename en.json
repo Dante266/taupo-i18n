@@ -832,7 +832,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnon2": {
-    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
+    "message": "This record will expire after 90 days. Use the 'Report Abuse' button in the MORE DETAILS view later on to request an earlier expiration.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
