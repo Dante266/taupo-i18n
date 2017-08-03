@@ -940,7 +940,7 @@
     "context": "This is the query presented to a user when asked to be more specific about the type of abuse report the user is filing."
   },
   "abuseReportSpam": {
-    "message": "Spam",
+    "message": "スパム",
     "context": "This is the button label to select a report abuse claim of type spam."
   },
   "abuseReportSex": {
