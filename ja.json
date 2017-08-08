@@ -992,15 +992,15 @@
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   },
   "notifyLogout": {
-    "message": "Logged out.",
+    "message": "ログアウト.",
     "context": "This notification will appear after the user successfully logs out."
   },
   "uploadingPhoto": {
-    "message": "Uploading Photo...",
+    "message": "写真のアップロード...",
     "context": "This message is displayed after a user selects an image file to search by photo as the file is being uploaded."
   },
   "searchByPhoto": {
-    "message": "Search by Photo",
+    "message": "写真で検索",
     "context": "When a user elects to search by photo from the search query bar, a dialog box appears with this as the title."
   },
   "dragAndDrop": {
