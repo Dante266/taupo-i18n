@@ -1004,27 +1004,27 @@
     "context": "When a user elects to search by photo from the search query bar, a dialog box appears with this as the title."
   },
   "dragAndDrop": {
-    "message": "Drag and drop",
+    "message": "ドラッグアンドドロップ",
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   },
   "emailRecordRevisionSubject": {
-    "message": "A record you are following has been updated",
+    "message": "あなたがフォローしているレコードが更新されました",
     "context": "We email users following a record when a revision is made or a comment is added, this is the subject of that email."
   },
   "emailRecordRevisionLine1": {
-    "message": "A comment has been added or a revision made to a record you are following.",
+    "message": "あなたがフォローしているレコードにコメントが追加されたか、またはリビジョンが作成されました.",
     "context": "We email users following a record when a revision is made or a comment is added, this is the first line of that email."
   },
   "emailRecordRevisionLine2": {
-    "message": "You can review the record at this location:",
+    "message": "この場所のレコードを確認することができます:",
     "context": "We email users following a record when a revision is made or a comment is added, this line prefixes the direct record url."
   },
   "emailRecordRevisionLine3": {
-    "message": "If you want to unsubscribe from these email alerts, visit the link above and untoggle the Following button.",
+    "message": "これらの電子メールによるアラートの登録を解除する場合は、上記のリンクをクリックし、[次へ]ボタンのトグルを解除してください.",
     "context": "We email users following a record when a revision is made or a comment is added, at the end we inform the user of how to unsubscribe to these emails."
   },
   "emailNewUserSubject": {
-    "message": "Confirm your email address",
+    "message": "メールアドレスを確認してください",
     "context": "We email new users after they register, this is the subject line of said email."
   },
   "emailNewUserLine1": {
