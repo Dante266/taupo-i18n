@@ -1028,31 +1028,31 @@
     "context": "We email new users after they register, this is the subject line of said email."
   },
   "emailNewUserLine1": {
-    "message": "Thank you for registering.",
+    "message": "登録ありがとうございます.",
     "context": "We email new users after they register, this is the first line of said email thanking them for registering."
   },
   "emailNewUserLine2": {
-    "message": "You must visit the link below in order to complete the registration process:",
+    "message": "登録プロセスを完了するには、下のリンクをクリックする必要があります:",
     "context": "We email new users after they register, this is the second line of said email providing them a link complete the registration process."
   },
   "emailNewUserLine3": {
-    "message": "Failure to visit the link will result in your account being deleted after 30 days.",
+    "message": "リンクにアクセスしないと、30日後にアカウントが削除されます。",
     "context": "We email new users after they register, this is the last line of said email warning the user about account deletion for failure to activate their account."
   },
   "emailForgot1Subject": {
-    "message": "Password reset request",
+    "message": "パスワードリセット要求",
     "context": "We email a user when they initiate the forgot password sequence, this is the subject of that email."
   },
   "emailForgot1Line1": {
-    "message": "Someone has initiated a password reset request for your account.",
+    "message": "誰かがあなたのアカウントのパスワードリセット要求を開始しました。",
     "context": "We email a user when they initiate the forgot password sequence, this is the first line of that email."
   },
   "emailForgot1Line2": {
-    "message": "If you did not initiate this request, it is safe to ignore this email and your password will not be changed.",
+    "message": "このリクエストを開始していない場合は、このメールを無視しても安全です。パスワードは変更されません。",
     "context": "We email a user when they initiate the forgot password sequence, we inform the user it is safe to ignore this request if they did not initiate it."
   },
   "emailForgot1Line3": {
-    "message": "However, if you did initiate this request and would prefer to reset your password, you must visit the following link:",
+    "message": "ただし、このリクエストを開始してパスワードをリセットしたい場合は、次のリンクにアクセスする必要があります。",
     "context": "We email a user when they initiate the forgot password sequence, this line prefixes a url the user must click on to continue in the forgot password sequence."
   },
   "emailForgot1Line4": {
