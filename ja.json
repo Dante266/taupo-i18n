@@ -1056,39 +1056,39 @@
     "context": "We email a user when they initiate the forgot password sequence, this line prefixes a url the user must click on to continue in the forgot password sequence."
   },
   "emailForgot1Line4": {
-    "message": "Once this link has been visited, a new password will be generated and sent to you in a second email.",
+    "message": "このリンクにアクセスすると、新しいパスワードが生成され、2番目のメールで送信されます。",
     "context": "We email a user when they initiate the forgot password sequence, final line of this email informing a new password will be generated."
   },
   "emailForgot2Subject": {
-    "message": "New password",
+    "message": "新しいパスワード",
     "context": "This is the second email in the forgot password sequence, and this is the subject of that email."
   },
   "emailForgot2Line1": {
-    "message": "Your new password is:",
+    "message": "あなたの新しいパスワードは:",
     "context": "This is the second email in the forgot password sequence, this line prefixes the new password we generated for the user."
   },
   "emailForgot2Line2": {
-    "message": "You may optionally change your password after signing in:",
+    "message": "必要に応じて、ログイン後にパスワードを変更することができます:",
     "context": "This is the second email in the forgot password sequence, lastly, we inform the user that they may change their password after logging in."
   },
   "welcomeTo": {
-    "message": "Welcome to",
+    "message": "ようこそ",
     "context": "The first time a user comes to PL, we welcome them like: Welcome to PEOPLE LOCATOR. However PEOPLE LOCATOR is not translated in this welcome message."
   },
   "chooseLanguage": {
-    "message": "Choose a language",
+    "message": "言語を選択する,"
     "context": "We prompt the user to select a language at first visit."
   },
   "zoomPhoto": {
-    "message": "Enlarge Photo",
+    "message": "写真を拡大",
     "context": "This is s menu button action that shows a larger version of the image from a record."
   },
   "shareRecord": {
-    "message": "Share this record",
+    "message": "このレコードを共有する",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
   },
   "additionalInformation": {
-    "message": "Additional Information",
+    "message": "追加情報",
     "context": "This is a label displayed several places titled Additional Information."
   }
 }
