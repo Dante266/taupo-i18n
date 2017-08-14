@@ -1076,7 +1076,7 @@
     "context": "The first time a user comes to PL, we welcome them like: Welcome to PEOPLE LOCATOR. However PEOPLE LOCATOR is not translated in this welcome message."
   },
   "chooseLanguage": {
-    "message": "言語を選択する,"
+    "message": "言語を選択する",
     "context": "We prompt the user to select a language at first visit."
   },
   "zoomPhoto": {
