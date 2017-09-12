@@ -920,8 +920,20 @@
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Pulse el botón para copiar la URL del evento en su portapapeles para poder compartirla o marcarla.",
-    "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
+    "message": "Copy to clipboard",
+    "context": "This text appears under the button to share an event via email."
+  },
+  "eurl3": {
+    "message": "Send Email",
+    "context": "This text appears under the button to share an event via clipboard."
+  },
+  "eurl4": {
+    "message": "Share",
+    "context": "This button text label appears on the button for a user to share an event or record."
+  },
+  "eurl5": {
+    "message": "Share this record",
+    "context": "This section text is displayed on the paper action dialog when a user clicks the share record button."
   },
   "page404": {
     "message": "404: Esta página no existe.",
@@ -1090,5 +1102,9 @@
   "additionalInformation": {
     "message": "Información adicional",
     "context": "This is a label displayed several places titled Additional Information."
+  },
+  "inEvent": {
+    "message": "in event",
+    "context": "This substring 'in event' will appear atop search results under the search bar after '27 record' but before the event name (0.123 seconds)"
   }
 }
