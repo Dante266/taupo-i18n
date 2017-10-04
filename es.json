@@ -920,19 +920,19 @@
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Copy to clipboard",
+    "message": "Copiar al portapapeles",
     "context": "This text appears under the button to share an event via email."
   },
   "eurl3": {
-    "message": "Send Email",
+    "message": "Envie Correo Electrónico",
     "context": "This text appears under the button to share an event via clipboard."
   },
   "eurl4": {
-    "message": "Share",
+    "message": "Compartir",
     "context": "This button text label appears on the button for a user to share an event or record."
   },
   "eurl5": {
-    "message": "Share this record",
+    "message": "Comparta este registro",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share record button."
   },
   "page404": {
@@ -1104,11 +1104,11 @@
     "context": "This is a label displayed several places titled Additional Information."
   },
   "inEvent": {
-    "message": "in event",
+    "message": "en evento",
     "context": "This substring 'in event' will appear atop search results under the search bar after '27 record' but before the event name (0.123 seconds)"
   },
   "viewOriginalRecord": {
-    "message": "View Original Record",
+    "message": "Ver el registro original",
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   }
 }
