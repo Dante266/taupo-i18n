@@ -1104,11 +1104,11 @@
     "context": "This is a label displayed several places titled Additional Information."
   },
   "inEvent": {
-    "message": "in event",
+    "message": "ایونٹ میں",
     "context": "This substring 'in event' will appear atop search results under the search bar after '27 record' but before the event name (0.123 seconds)"
   },
   "viewOriginalRecord": {
-    "message": "View Original Record",
+    "message": "اصل ریکارڈ دیکھیں",
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   }
 }
