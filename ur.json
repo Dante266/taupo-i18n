@@ -920,19 +920,19 @@
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Copy to clipboard",
+    "message": "کلپ بورڈ پر کاپی",
     "context": "This text appears under the button to share an event via email."
   },
   "eurl3": {
-    "message": "Send Email",
+    "message": "ای میل بھیجیں",
     "context": "This text appears under the button to share an event via clipboard."
   },
   "eurl4": {
-    "message": "Share",
+    "message": "اشتراک کریں",
     "context": "This button text label appears on the button for a user to share an event or record."
   },
   "eurl5": {
-    "message": "Share this record",
+    "message": "اس ریکارڈ کا اشتراک کریں",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share record button."
   },
   "page404": {
