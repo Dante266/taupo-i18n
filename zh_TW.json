@@ -916,19 +916,19 @@
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Copy to clipboard",
+    "message": "復制到剪貼板",
     "context": "This text appears under the button to share an event via email."
   },
   "eurl3": {
-    "message": "Send Email",
+    "message": "發送電子郵件",
     "context": "This text appears under the button to share an event via clipboard."
   },
   "eurl4": {
-    "message": "Share",
+    "message": "分享",
     "context": "This button text label appears on the button for a user to share an event or record."
   },
   "eurl5": {
-    "message": "Share this record",
+    "message": "分享此記錄",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share record button."
   },
   "page404": {
