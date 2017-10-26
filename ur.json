@@ -1108,91 +1108,91 @@
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   },
   "ncmec1": {
-    "message": "We suggest you also send this report to the National Center for Missing and Exploited Children as well.",
+    "message": ".ہم تجویز کرتے ہیں کہ آپ اس رپورٹ کو بھی یادگار اور معزز بچوں کے لئے قومی مرکز میں بھیجیں",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child."
   },
   "ncmec2": {
-    "message": "You can find a link to NCMEC here.",
+    "message": ".یہاں ایک لنک تلاش کرسکتے ہیں NCMEC آپ",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child. This is the link text."
   },
   "pageResourcesNcmec": {
-    "message": "National Center for Missing and Exploited Children",
+    "message": "لاپتہ اور مایوس بچوں کے لئے قومی مرکز",
     "context": "Resource Page link to NCMEC."
   },
   "eventListMeta": {
-    "message": "Find and report missing people and animals in",
+    "message": "لوگوں اور جانوروں کو غائب کرنے اور ان کو اطلاع دیں",
     "context":  "Find and report missing people and animals in any disaster using this website."
   },
   "eventListMeta2": {
-    "message": "any disaster",
+    "message": "کسی بھی آفت",
     "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
-    "message": "using this National Library of Medicine website.",
+    "message": ".اس نیشنل لائبریری میڈیکل ویب سائٹ کا استعمال کرتے ہوئے",
     "context": "Find missing people using this National Library of Medicine website."
   },
   "searchTitle": {
-    "message": "Find missing people and animals in",
+    "message": ".غائب افراد اور جانوروں کو تلاش کریں",
     "context": "Find missing people and animals in the Mexico Earthquake."
   },
   "searchMeta": {
-    "message": "Search for missing people and animals in",
+    "message": "غائب لوگوں اور جانوروں کے لئے تلاش کریں",
     "context": "Search for missing people and animals in the Mexico Earthquake."
   },
   "searchMeta2": {
-    "message": "by name or by photo",
+    "message": "نام یا تصویر کی طرف سے",
     "context": "Search for missing people by name or by photo"
   },
   "searchMeta3": {
-    "message": "using the National Library of Medicine's",
+    "message": ".میڈیکل لائبریری کے قومی لائبریری کا استعمال کرتے ہوئے",
     "context": "Search for missing people using the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "reportTitle": {
-    "message": "Report people and animals in",
+    "message": "لوگوں اور جانوروں کی اطلاع دیں",
     "context": "Report people and animals in the Mexico Earthquake."
   },
   "reportMeta": {
-    "message": "Report the status of people and animals in",
+    "message": "لوگوں اور جانوروں کی حالت کی اطلاع دیں",
     "context": "Report the status of people and animals in the Mexico City Earthquake."
   },
   "recordTitle": {
-    "message": "Reported person",
+    "message": "رپورٹ کردہ شخص",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordTitle2": {
-    "message": "in",
+    "message": "اندر",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordMeta":  {
-    "message": "has been reported",
+    "message": "اطلاع دی گئی ہے",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "recordMeta2":  {
-    "message": "on",
+    "message": "پر",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "aboutMeta": {
-    "message": "The National Library of Medicine, part of the National Institutes of Health, created this website",
+    "message": "نیشنل لائبریری میڈیکل، نیشنل انسٹیٹیوٹ آف ہیلتھ نے اس ویب سائٹ کو تخلیق کیا",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
   },
   "aboutMeta2": {
-    "message": "for finding and reporting missing people and animals during disasters.",
+    "message": ".آفتوں کے دوران غائب افراد اور جانوروں کو تلاش کرنے اور رپورٹنگ کے لئے",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
   },
   "helpMeta": {
-    "message": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's",
+    "message": "قومی لائبریری آف میڈیکل کے آفس پر آفتوں کے دوران کس طرح لوگوں اور جانوروں کو غائب کرنے اور رپورٹ کرنے کا طریقہ جانیں",
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
-    "message": "Additional National Library of Medicine resources for",
+    "message": "میڈیکل وسائل کے اضافی نیشنل لائبریری کے لئے",
     "content": "Additional National Library of Medicine resources for finding people."
   },
   "followUsMeta": {
-    "message": "Receive disaster alerts on social media from the National Library of Medicine's",
+    "message": "میڈیکل لائبریری آف نیشنل لائبریری سے سوشل میڈیا پر تباہی کے انتباہات حاصل کریں",
     "content": "Receive disaster alerts on social media from the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "privacyMeta": {
-    "message": "Privacy policies governing the use of the National Library of Medicine's",
+    "message": "پرائیویسی لائبریری برائے قومی لائبریری کے استعمال پر قابو پانے کی پالیسیوں",
     "content": "Privacy policies governing the use of the National Library of Medicine's NLM PEOPLE LOCATOR."
   }
 }
