@@ -1108,91 +1108,91 @@
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   },
   "ncmec1": {
-    "message": "We suggest you also send this report to the National Center for Missing and Exploited Children as well.",
+    "message": "我們建議您也將此報告發送到國家失蹤和被剝削兒童救助中心。",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child."
   },
   "ncmec2": {
-    "message": "You can find a link to NCMEC here.",
+    "message": "您可以在這裏找到NCMEC的鏈接。",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child. This is the link text."
   },
   "pageResourcesNcmec": {
-    "message": "National Center for Missing and Exploited Children",
+    "message": "國家失蹤和被剝削兒童救助中心",
     "context": "Resource Page link to NCMEC."
   },
   "eventListMeta": {
-    "message": "Find and report missing people and animals in",
+    "message": "查找並報告失蹤的人和動物",
     "context":  "Find and report missing people and animals in any disaster using this website."
   },
   "eventListMeta2": {
-    "message": "any disaster",
+    "message": "任何災難",
     "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
-    "message": "using this National Library of Medicine website.",
+    "message": "使用此國家醫學圖書館網站。",
     "context": "Find missing people using this National Library of Medicine website."
   },
   "searchTitle": {
-    "message": "Find missing people and animals in",
+    "message": "尋找失蹤的人和動物在",
     "context": "Find missing people and animals in the Mexico Earthquake."
   },
   "searchMeta": {
-    "message": "Search for missing people and animals in",
+    "message": "搜索失蹤的人和動物在",
     "context": "Search for missing people and animals in the Mexico Earthquake."
   },
   "searchMeta2": {
-    "message": "by name or by photo",
+    "message": "按名稱或照片",
     "context": "Search for missing people by name or by photo"
   },
   "searchMeta3": {
-    "message": "using the National Library of Medicine's",
+    "message": "使用國家醫學圖書館",
     "context": "Search for missing people using the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "reportTitle": {
-    "message": "Report people and animals in",
+    "message": "報告人和動物",
     "context": "Report people and animals in the Mexico Earthquake."
   },
   "reportMeta": {
-    "message": "Report the status of people and animals in",
+    "message": "報告人和動物的狀況",
     "context": "Report the status of people and animals in the Mexico City Earthquake."
   },
   "recordTitle": {
-    "message": "Reported person",
+    "message": "被報告人",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordTitle2": {
-    "message": "in",
+    "message": "在",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordMeta":  {
-    "message": "has been reported",
+    "message": "已被報道",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "recordMeta2":  {
-    "message": "on",
+    "message": "在",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "aboutMeta": {
-    "message": "The National Library of Medicine, part of the National Institutes of Health, created this website",
+    "message": "美國國家圖書館，隸屬美國國家衛生研究院，建立了此網站",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
   },
   "aboutMeta2": {
-    "message": "for finding and reporting missing people and animals during disasters.",
+    "message": "在災害期間查找和報告失蹤的人和動物。",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
   },
   "helpMeta": {
-    "message": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's",
+    "message": "學習如何在國家醫學圖書館的NLM PEOPLE LOCATOR網站上，查找在災難中失蹤的人和動物",
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
-    "message": "Additional National Library of Medicine resources for",
+    "message": "附加的國家醫學圖書館資源",
     "content": "Additional National Library of Medicine resources for finding people."
   },
   "followUsMeta": {
-    "message": "Receive disaster alerts on social media from the National Library of Medicine's",
+    "message": "收到國家醫學圖書館NLM PEOPLE LOCATOR，從社交媒體上發出的災難警報",
     "content": "Receive disaster alerts on social media from the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "privacyMeta": {
-    "message": "Privacy policies governing the use of the National Library of Medicine's",
+    "message": "關於使用國家圖書館的隱私政策",
     "content": "Privacy policies governing the use of the National Library of Medicine's NLM PEOPLE LOCATOR."
   }
 }
