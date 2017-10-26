@@ -55,10 +55,6 @@
     "message": "Marca Registrada",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite y TriagePic son marcas comerciales registradas del Departamento de Salud y Servicios Humanos de los Estados Unidos.",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "FECHA DE CADUCIDAD",
     "context": "Verbiage describing the expiration date of the OMB notice."

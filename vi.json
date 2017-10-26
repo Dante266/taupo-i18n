@@ -55,10 +55,6 @@
     "message": "Thương Hiệu",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, và TriagePic là Thương Hiệu đăng ký  của Sở Y Tế và Dịch Vụ Nhân sinh Hoa Kỳ.",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "NGÀY HẾT HẠN",
     "context": "Verbiage describing the expiration date of the OMB notice."
@@ -276,7 +272,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "Nếu bạn đang tìm kiếm một người mất tích hoặc vật nuôi, bạn có thể cố gắng để xác định vị trí chúng bằng cách tìm kiếm một trong những sự kiện thảm họa của chúng tôi. Khi bạn lần đầu tiên đến PEOPLE LOCATOR, bạn sẽ thấy một danh sách các sự kiện thiên tai có sẵn. Mỗi sự kiện có một cái tên, một hình ảnh mô tả liên quan đến sự kiện này, và một số văn bản mô tả tình hình. Nếu bạn di chuyển xuống, bạn sẽ thấy có một vài sự kiện khác nhau mà từ đó bạn có thể lựa chọn. Chọn một sự kiện mà bạn tin rằng người hoặc vật nuôi bạn đang cố gắng xác định vị trí có thể liên quan. Ví dụ, nếu có một sự kiện có tên Haiti Earthquake và người mà bạn đang tìm kiếm đã được nhìn thấy lần cuối ở Haiti, bạn sẽ chọn sự kiện này. Bạn sẽ chọn một sự kiện bằng cách bấm vào nút màu xanh lá cây lớn dưới hình ảnh; điều này sẽ đưa bạn trực tiếp đến các công cụ tìm kiếm cho sự kiện thảm họa đặc biệt này. Hộp tìm kiếm mới sẽ xuất hiện ở trên đầu trang sau khi bạn đã chọn một sự kiện . Nhập tên của người mà bạn đang cố gắng xác định vị trí trong hộp tìm kiếm này. Các kết quả tìm kiếm tự động cập nhật với kết quả phù hợp nhất trên gần đầu trang. Bạn có thể có được nhiều thông tin về bằng cách khai thác trên các chi tiết liên kết gần cuối của bất cứ hồ sơ nào, điều này mở ra một hồ sơ chi tiết. Vào xem chi tiết này, bạn có thể xem thông tin hồ sơ chi tiết hơn, thêm nhận xét của riêng bạn, hoặc bắt đầu theo dõi một hồ sơ nếu có cập nhật.",
+    "message": "Nếu bạn đang tìm kiếm một người mất tích hoặc vật nuôi, bạn có thể cố gắng để xác định vị trí chúng bằng cách tìm kiếm một trong những sự kiện thảm họa của chúng tôi. Khi bạn lần đầu tiên đến NLM PEOPLE LOCATOR, bạn sẽ thấy một danh sách các sự kiện thiên tai có sẵn. Mỗi sự kiện có một cái tên, một hình ảnh mô tả liên quan đến sự kiện này, và một số văn bản mô tả tình hình. Nếu bạn di chuyển xuống, bạn sẽ thấy có một vài sự kiện khác nhau mà từ đó bạn có thể lựa chọn. Chọn một sự kiện mà bạn tin rằng người hoặc vật nuôi bạn đang cố gắng xác định vị trí có thể liên quan. Ví dụ, nếu có một sự kiện có tên Haiti Earthquake và người mà bạn đang tìm kiếm đã được nhìn thấy lần cuối ở Haiti, bạn sẽ chọn sự kiện này. Bạn sẽ chọn một sự kiện bằng cách bấm vào nút màu xanh lá cây lớn dưới hình ảnh; điều này sẽ đưa bạn trực tiếp đến các công cụ tìm kiếm cho sự kiện thảm họa đặc biệt này. Hộp tìm kiếm mới sẽ xuất hiện ở trên đầu trang sau khi bạn đã chọn một sự kiện . Nhập tên của người mà bạn đang cố gắng xác định vị trí trong hộp tìm kiếm này. Các kết quả tìm kiếm tự động cập nhật với kết quả phù hợp nhất trên gần đầu trang. Bạn có thể có được nhiều thông tin về bằng cách khai thác trên các chi tiết liên kết gần cuối của bất cứ hồ sơ nào, điều này mở ra một hồ sơ chi tiết. Vào xem chi tiết này, bạn có thể xem thông tin hồ sơ chi tiết hơn, thêm nhận xét của riêng bạn, hoặc bắt đầu theo dõi một hồ sơ nếu có cập nhật.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {

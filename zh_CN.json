@@ -55,10 +55,6 @@
     "message": "商标",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "PEOPLE LOCATOR®，ReUnite® 和 TriagePic® 是美国卫生与公众服务部(HHS)的注册商标。",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "有效期",
     "context": "Verbiage describing the expiration date of the OMB notice."
@@ -276,7 +272,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "如果您正在寻找失踪的人员或宠物，您可以通过搜索我们的灾难事件来寻找他们。当您进入PEOPLE LOCATOR网页后，您会看到一个即时更新的灾难事件的列表。每个事件都有一个名字，以及描述事件的有关图像和一些文字。如果用鼠标向下滑动，您将看到有一些其它的灾难事件，供您选择。您可以选择您认为与您寻找的失踪人员或宠物最有关联的灾难事件。例如，如果有一个灾难事件名为海地地震，而您所要寻求的人正是在海地失踪，那么您应该选择这个灾难事件。您可以通过点击图片下方的大型绿色按钮来选择灾难事件；这会将您直接引领到这个指定的灾难事件的搜索引擎。完成您的选择后，一个新的搜索框将显示在顶部。在此搜索框中，输入您要寻找的失踪人员的姓名。于是，您将得到一个搜索结果，搜索结果将会按照相关度的大小由上而下排列 , 并会自动更新。如要您要获得更多有关您所搜寻的失踪人员与宠物的信息，您可以在所选的记录中，点击信息底部的链接，打开提供详细信息的页面。在提供详细信息的页面中，您可以看到更为详尽的记录信息，同时，您可以添加自己的评论，设置跟踪更新的记录。",
+    "message": "如果您正在寻找失踪的人员或宠物，您可以通过搜索我们的灾难事件来寻找他们。当您进入NLM PEOPLE LOCATOR网页后，您会看到一个即时更新的灾难事件的列表。每个事件都有一个名字，以及描述事件的有关图像和一些文字。如果用鼠标向下滑动，您将看到有一些其它的灾难事件，供您选择。您可以选择您认为与您寻找的失踪人员或宠物最有关联的灾难事件。例如，如果有一个灾难事件名为海地地震，而您所要寻求的人正是在海地失踪，那么您应该选择这个灾难事件。您可以通过点击图片下方的大型绿色按钮来选择灾难事件；这会将您直接引领到这个指定的灾难事件的搜索引擎。完成您的选择后，一个新的搜索框将显示在顶部。在此搜索框中，输入您要寻找的失踪人员的姓名。于是，您将得到一个搜索结果，搜索结果将会按照相关度的大小由上而下排列 , 并会自动更新。如要您要获得更多有关您所搜寻的失踪人员与宠物的信息，您可以在所选的记录中，点击信息底部的链接，打开提供详细信息的页面。在提供详细信息的页面中，您可以看到更为详尽的记录信息，同时，您可以添加自己的评论，设置跟踪更新的记录。",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {

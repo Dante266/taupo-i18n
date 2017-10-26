@@ -55,10 +55,6 @@
     "message": "تجارتی نشان",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "لوگوں کی جگہ کا پتہ لگانے والا، ReUnite (دوبارہ ملیں) اور  TriagePic (ایمرجنسی میں مریضوں کی تقدیم کی ترتیب کی تصویر) امریکی محکمہ برائے صحت و انسانی ذرائع کے رجسٹرڈ تجارتی نشانات ہیں۔",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "تاریخِ اختتام",
     "context": "Verbiage describing the expiration date of the OMB notice."

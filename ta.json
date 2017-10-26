@@ -55,10 +55,6 @@
     "message": "முத்திரை",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, மற்றும் TriagePic சுகாதாரம் மற்றும் மனித சேவைகள் U.S. நீதித்துறை பதிவுபெற்ற",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "காலாவதி தேதி",
     "context": "Verbiage describing the expiration date of the OMB notice."

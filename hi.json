@@ -55,10 +55,6 @@
     "message": "ट्रेडमार्क",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite और TriagePic अमेरिका विभाग के स्वास्थ्य और मानव सेवा के ट्रेडमार्क पंजीकृत हैं",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "समाप्ति की तारीख",
     "context": "Verbiage describing the expiration date of the OMB notice."
@@ -276,7 +272,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be in. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You can select an event by tapping/clicking on the large green button under the image. This will take you directly to the search screen for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box and press Enter. The search results will update with the most relevant matches at the top. You may acquire more information about a result by tapping on the details link near the bottom of the record. This opens a detailed view in which you may view more detailed record information, add a comment of your own, or begin following a record to be notified about updates.",
+    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at NLM PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be in. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You can select an event by tapping/clicking on the large green button under the image. This will take you directly to the search screen for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box and press Enter. The search results will update with the most relevant matches at the top. You may acquire more information about a result by tapping on the details link near the bottom of the record. This opens a detailed view in which you may view more detailed record information, add a comment of your own, or begin following a record to be notified about updates.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
