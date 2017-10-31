@@ -1108,91 +1108,91 @@
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   },
   "ncmec1": {
-    "message": "We suggest you also send this report to the National Center for Missing and Exploited Children as well.",
+    "message": "Chúng tôi cũng khuyên bạn nên gửi báo cáo này tới Trung tâm Quốc gia về Trẻ em Mất tích và bị Lợi dụng.",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child."
   },
   "ncmec2": {
-    "message": "You can find a link to NCMEC here.",
+    "message": "Bạn có thể tìm thấy một liên kết đến NCMEC ở đây.",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child. This is the link text."
   },
   "pageResourcesNcmec": {
-    "message": "National Center for Missing and Exploited Children",
+    "message": "Trung tâm quốc gia về trẻ em bị mất tích và bị lợi dụng",
     "context": "Resource Page link to NCMEC."
   },
   "eventListMeta": {
-    "message": "Find and report missing people and animals in",
+    "message": "Tìm và báo cáo người và vật nuôi bị mất tích trong",
     "context":  "Find and report missing people and animals in any disaster using this website."
   },
   "eventListMeta2": {
-    "message": "any disaster",
+    "message": "bất kỳ thiên tai",
     "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
-    "message": "using this National Library of Medicine website.",
+    "message": "sử dụng trang web Thư viện Y Học Quốc Gia.",
     "context": "Find missing people using this National Library of Medicine website."
   },
   "searchTitle": {
-    "message": "Find missing people and animals in",
+    "message": "Tìm người mất tích và vật nuôi trong",
     "context": "Find missing people and animals in the Mexico Earthquake."
   },
   "searchMeta": {
-    "message": "Search for missing people and animals in",
+    "message": "Tìm kiếm người mất tích và vật nuôi trong",
     "context": "Search for missing people and animals in the Mexico Earthquake."
   },
   "searchMeta2": {
-    "message": "by name or by photo",
+    "message": "theo tên hoặc theo hình ảnh",
     "context": "Search for missing people by name or by photo"
   },
   "searchMeta3": {
-    "message": "using the National Library of Medicine's",
+    "message": "sử dụng Thư viện Y Học Quốc Gia",
     "context": "Search for missing people using the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "reportTitle": {
-    "message": "Report people and animals in",
+    "message": "Báo cáo người và vật nuôi trong",
     "context": "Report people and animals in the Mexico Earthquake."
   },
   "reportMeta": {
-    "message": "Report the status of people and animals in",
+    "message": "Report the status of loved people and pets in",
     "context": "Report the status of people and animals in the Mexico City Earthquake."
   },
   "recordTitle": {
-    "message": "Reported person",
+    "message": "Người được báo cáo",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordTitle2": {
-    "message": "in",
+    "message": "trong",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordMeta":  {
-    "message": "has been reported",
+    "message": "đã được báo cáo",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "recordMeta2":  {
-    "message": "on",
+    "message": "trên",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "aboutMeta": {
-    "message": "The National Library of Medicine, part of the National Institutes of Health, created this website",
+    "message": "Thư viện Y Khoa Quốc Gia, một bộ phận của Viện Y tế Quốc Gia, đã tạo ra trang web này",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
   },
   "aboutMeta2": {
-    "message": "for finding and reporting missing people and animals during disasters.",
+    "message": "tìm kiếm và báo cáo người bị mất tích và vật nuôi trong thiên tai.",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
   },
   "helpMeta": {
-    "message": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's",
+    "message": "Tìm hiểu cách tìm và báo cáo người bị mất tích và vật nuôi trong các thảm hoạ trên Thư Viện Y Học Quốc gia",
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
-    "message": "Additional National Library of Medicine resources for",
+    "message": "Thông tin bổ sung cho Thư viện Y Khoa Quốc Gia",
     "content": "Additional National Library of Medicine resources for finding people."
   },
   "followUsMeta": {
-    "message": "Receive disaster alerts on social media from the National Library of Medicine's",
+    "message": "Nhận cảnh báo thiên tai trên các phương tiện truyền thông xã hội từ Thư viện Y Học Quốc Gia",
     "content": "Receive disaster alerts on social media from the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "privacyMeta": {
-    "message": "Privacy policies governing the use of the National Library of Medicine's",
+    "message": "Chính sách bảo mật quy định việc sử dụng Thư Viện Y Học Quốc Gia",
     "content": "Privacy policies governing the use of the National Library of Medicine's NLM PEOPLE LOCATOR."
   }
 }
