@@ -436,7 +436,7 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Find and report missing people and animals during disasters",
+    "message": "Busque e informe acerca de personas y mascotas desaparecidas durante desastres",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -1108,91 +1108,91 @@
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   },
   "ncmec1": {
-    "message": "We suggest you also send this report to the National Center for Missing and Exploited Children as well.",
+    "message": "Sugerimos que envie este informe adicionalmente al Centro Nacional de Niños Desaparecidos y Explotados. (NCMEC)",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child."
   },
   "ncmec2": {
-    "message": "You can find a link to NCMEC here.",
+    "message": "El enlace de NCMEC es este.",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child. This is the link text."
   },
   "pageResourcesNcmec": {
-    "message": "National Center for Missing and Exploited Children",
+    "message": "Centro Nacional de Niños Desaparecidos y Explotados",
     "context": "Resource Page link to NCMEC."
   },
   "eventListMeta": {
-    "message": "Find and report missing people and animals in",
+    "message": "Encuentre e informe acerca de personas y mascotas desaparecidad en",
     "context":  "Find and report missing people and animals in any disaster using this website."
   },
   "eventListMeta2": {
-    "message": "any disaster",
+    "message": "cualquier desastre",
     "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
-    "message": "using this National Library of Medicine website.",
+    "message": "utilizando este página de la Biblioteca Nacional de Medicina.",
     "context": "Find missing people using this National Library of Medicine website."
   },
   "searchTitle": {
-    "message": "Find missing people and animals in",
+    "message": "Encuentre personas y mascotas desaparecidas en",
     "context": "Find missing people and animals in the Mexico Earthquake."
   },
   "searchMeta": {
-    "message": "Search for missing people and animals in",
+    "message": "Busque personas y mascotas desaparecidas en",
     "context": "Search for missing people and animals in the Mexico Earthquake."
   },
   "searchMeta2": {
-    "message": "by name or by photo",
+    "message": "por nombre o con foto",
     "context": "Search for missing people by name or by photo"
   },
   "searchMeta3": {
-    "message": "using the National Library of Medicine's",
+    "message": "utilizando la pagina de la Biblioteca Nacional de Medicina",
     "context": "Search for missing people using the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "reportTitle": {
-    "message": "Report people and animals in",
+    "message": "Informe acerca de personas y mascotas en",
     "context": "Report people and animals in the Mexico Earthquake."
   },
   "reportMeta": {
-    "message": "Report the status of people and animals in",
+    "message": "Informe acerca del estado de personas y mascotas en",
     "context": "Report the status of people and animals in the Mexico City Earthquake."
   },
   "recordTitle": {
-    "message": "Reported person",
+    "message": "Informe acerca de persona",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordTitle2": {
-    "message": "in",
+    "message": "en",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordMeta":  {
-    "message": "has been reported",
+    "message": "el informe fue creado",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "recordMeta2":  {
-    "message": "on",
+    "message": "en",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "aboutMeta": {
-    "message": "The National Library of Medicine, part of the National Institutes of Health, created this website",
+    "message": "Esta página fue creada por la Biblioteca Nacional de Medicina, que hace parte de los Institutos Nacionales de salud",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
   },
   "aboutMeta2": {
-    "message": "for finding and reporting missing people and animals during disasters.",
+    "message": "para buscar e informar acerca de personas y mascotas desaparecidas durante desastres.",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
   },
   "helpMeta": {
-    "message": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's",
+    "message": "Aprenda como buscar o informar acerca de personas o mascotas desaparecidas durante desastres en los recursos de la Biblioteca Nacional de Medicina",
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
-    "message": "Additional National Library of Medicine resources for",
+    "message": "Recursos adicionales de la Biblioteca Nacional de Medicina para",
     "content": "Additional National Library of Medicine resources for finding people."
   },
   "followUsMeta": {
-    "message": "Receive disaster alerts on social media from the National Library of Medicine's",
+    "message": "Reciba alertas acerca de desastres en medios sociales a través de la Biblioteca Nacional de Medicina",
     "content": "Receive disaster alerts on social media from the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "privacyMeta": {
-    "message": "Privacy policies governing the use of the National Library of Medicine's",
+    "message": "Políticas de Privacidad que rigen el uso de los recursos de la Biblioteca Nacional de Medicina.",
     "content": "Privacy policies governing the use of the National Library of Medicine's NLM PEOPLE LOCATOR."
   }
 }
