@@ -1210,7 +1210,7 @@
   "searchUsingName": {
     "message": "Search using a name",
     "context": "Displayed tooltip when you hover your mouse over the search magnifying glass."
-  }
+  },
     "reportPersonAnimal": {
     "message": "Report a person or animal",
     "context": "Tooltip for report button."
