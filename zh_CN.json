@@ -1196,15 +1196,15 @@
     "content": "Privacy policies governing the use of the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "goHomePage": {
-    "message": "Go to the home page",
+    "message": "返回主页",
     "context": "Displayed tooltip when you hover your mouse over the home button."
   },
   "searchUsingPhoto": {
-    "message": "Search using a photo",
+    "message": "用照片搜索",
     "context": "Displayed tooltip when you hover your mouse over the visual search button."
   },
   "searchUsingName": {
-    "message": "Search using a name",
+    "message": "用名字搜索",
     "context": "Displayed tooltip when you hover your mouse over the search magnifying glass."
   }
 }
