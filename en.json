@@ -296,7 +296,7 @@
     "context": "On the About page, section header title Browser Support."
   },
   "pageAboutHeaderFAQ": {
-    "message": "Datasheets and Frequently Asked Questions",
+    "message": "Datasheets and FAQ",
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
@@ -1211,7 +1211,7 @@
     "message": "Search using a name",
     "context": "Displayed tooltip when you hover your mouse over the search magnifying glass."
   },
-    "reportPersonAnimal": {
+  "reportPersonAnimal": {
     "message": "Report a person or animal",
     "context": "Tooltip for report button."
   }
