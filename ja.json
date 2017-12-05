@@ -1108,79 +1108,79 @@
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   },
   "ncmec1": {
-    "message": "We suggest you also send this report to the National Center for Missing and Exploited Children as well.",
+    "message": "また、この報告書を行方不明および搾取された子供の国立センターにも送付することをお勧めします。",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child."
   },
   "ncmec2": {
-    "message": "You can find a link to NCMEC here.",
+    "message": "ここにNCMECへのリンクがあります。",
     "context": "In the reporting wizard, this message will be displayed when a report is completed for a child. This is the link text."
   },
   "pageResourcesNcmec": {
-    "message": "National Center for Missing and Exploited Children",
+    "message": "行方不明および搾取された子供のセンター",
     "context": "Resource Page link to NCMEC."
   },
   "eventListMeta": {
-    "message": "Find and report missing people and animals in",
+    "message": "行方不明の人や動物を探し報告する",
     "context":  "Find and report missing people and animals in any disaster using this website."
   },
   "eventListMeta2": {
-    "message": "any disaster",
+    "message": "災害",
     "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
-    "message": "using this National Library of Medicine website.",
+    "message": "この国立図書館のウェブサイトを使用してください。",
     "context": "Find missing people using this National Library of Medicine website."
   },
   "searchTitle": {
-    "message": "Find missing people and animals in",
+    "message": "行方不明の人や動物を探す",
     "context": "Find missing people and animals in the Mexico Earthquake."
   },
   "searchMeta": {
-    "message": "Search for missing people and animals in",
+    "message": "行方不明の人や動物を検索する",
     "context": "Search for missing people and animals in the Mexico Earthquake."
   },
   "searchMeta2": {
-    "message": "by name or by photo",
+    "message": "名前または写真で",
     "context": "Search for missing people by name or by photo"
   },
   "searchMeta3": {
-    "message": "using the National Library of Medicine's",
+    "message": "国立医学図書館を利用して",
     "context": "Search for missing people using the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "reportTitle": {
-    "message": "Report people and animals in",
+    "message": "人と動物を報告する",
     "context": "Report people and animals in the Mexico Earthquake."
   },
   "reportMeta": {
-    "message": "Report the status of people and animals in",
+    "message": "人と動物の状況を報告する",
     "context": "Report the status of people and animals in the Mexico City Earthquake."
   },
   "recordTitle": {
-    "message": "Reported person",
+    "message": "報告された人",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordTitle2": {
-    "message": "in",
+    "message": "に",
     "context": "Reported person Juan Valdez in the Mexico City Earthquake."
   },
   "recordMeta":  {
-    "message": "has been reported",
+    "message": "報告されている",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "recordMeta2":  {
-    "message": "on",
+    "message": "に",
     "content": "Juan Valdez has been reported missing on our website."
   },
   "aboutMeta": {
-    "message": "The National Library of Medicine, part of the National Institutes of Health, created this website",
+    "message": "国立衛生研究所の一部である国立医学図書館は、このウェブサイトを作成しました",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
   },
   "aboutMeta2": {
-    "message": "for finding and reporting missing people and animals during disasters.",
+    "message": "災害時に行方不明の人や動物を発見し、報告するためのものです。",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
   },
   "helpMeta": {
-    "message": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's",
+    "message": "国立医学図書館で災害時に行方不明の人や動物を見つけて報告する方法を学ぶ",
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
