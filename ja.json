@@ -1184,31 +1184,31 @@
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
-    "message": "Additional National Library of Medicine resources for",
+    "message": "追加の国立医学図書館のリソース",
     "content": "Additional National Library of Medicine resources for finding people."
   },
   "followUsMeta": {
-    "message": "Receive disaster alerts on social media from the National Library of Medicine's",
+    "message": "国立医学図書館のソーシャルメディアに関する災害警報を受け取ります。",
     "content": "Receive disaster alerts on social media from the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "privacyMeta": {
-    "message": "Privacy policies governing the use of the National Library of Medicine's",
+    "message": "国立医学図書館の使用を規定するプライバシーポリシー",
     "content": "Privacy policies governing the use of the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "goHomePage": {
-    "message": "Go to the home page",
+    "message": "ホームページに行く",
     "context": "Displayed tooltip when you hover your mouse over the home button."
   },
   "searchUsingPhoto": {
-    "message": "Search using a photo",
+    "message": "写真を使って検索する",
     "context": "Displayed tooltip when you hover your mouse over the visual search button."
   },
   "searchUsingName": {
-    "message": "Search using a name",
+    "message": "名前で検索する",
     "context": "Displayed tooltip when you hover your mouse over the search magnifying glass."
   },
   "reportPersonAnimal": {
-    "message": "Report a person or animal",
+    "message": "人や動物を報告する",
     "context": "Tooltip for report button."
   }
 }
