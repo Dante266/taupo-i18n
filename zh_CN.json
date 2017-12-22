@@ -1208,7 +1208,7 @@
     "context": "Displayed tooltip when you hover your mouse over the search magnifying glass."
   },
   "reportPersonAnimal": {
-    "message": "Report a person or animal",
+    "message": "报告一个人或动物",
     "context": "Tooltip for report button."
   }
 }
