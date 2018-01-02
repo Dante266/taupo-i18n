@@ -68,7 +68,7 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
-    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "message": "エラー：あなたのメールアドレスが確認されるまでサインインできません。リンクをメールで確認してください。",
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
@@ -168,7 +168,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot password?",
+    "message": "パスワードをお忘れですか？",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
@@ -436,7 +436,7 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Find and report missing people and animals during disasters",
+    "message": "災害時に行方不明の人や動物を見つけて報告する。",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -828,7 +828,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnon2": {
-    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
+    "message": "このレコードは90日後に有効期限が切れます。 「MORE DETAILS」ビューの「不正使用を報告する」ボタンを使用して、より早い期限を要求します。",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
