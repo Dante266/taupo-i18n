@@ -259,7 +259,7 @@
     "message": "New Password Again",
     "context": "This is the placeholder text for the new password again input."
   },
-    "pushNotificationsUnsupported": {
+  "pushNotificationsUnsupported": {
     "message": "Your browser does not support push notifications.",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
