@@ -1212,11 +1212,11 @@
     "context": "Tooltip for report button."
   },
   "enterName": {
-    "message": "Enter name to search",
+    "message": "検索する名前を入力",
     "context": "Title for a search box."
   },
   "selectEvent": {
-    "message": "Select event",
+    "message": "イベントを選択",
     "context": "Title for a menu of PL events."
   }
 }
