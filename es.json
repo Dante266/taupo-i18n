@@ -1212,11 +1212,11 @@
     "context": "Tooltip for report button."
   },
   "enterName": {
-    "message": "Enter name to search",
+    "message": "Digite el nombre para iniciar la búsqueda",
     "context": "Title for a search box."
   },
   "selectEvent": {
-    "message": "Select event",
+    "message": "Seleccione un evento",
     "context": "Title for a menu of PL events."
   }
 }
