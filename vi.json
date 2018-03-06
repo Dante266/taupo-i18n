@@ -1212,11 +1212,11 @@
     "context": "Tooltip for report button."
   },
   "enterName": {
-    "message": "Enter name to search",
+    "message": "Nhập tên để tìm",
     "context": "Title for a search box."
   },
   "selectEvent": {
-    "message": "Select event",
+    "message": "Chọn một sự kiện",
     "context": "Title for a menu of PL events."
   }
 }
