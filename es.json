@@ -1212,7 +1212,7 @@
     "context": "Tooltip for report button."
   },
   "enterName": {
-    "message": "Digite el nombre para iniciar la búsqueda",
+    "message": "Digite el nombre",
     "context": "Title for a search box."
   },
   "selectEvent": {
