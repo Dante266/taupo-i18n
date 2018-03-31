@@ -8,7 +8,7 @@
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "Sign In",
+    "message": "Войти",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
@@ -36,7 +36,7 @@
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "Контакт",
+    "message": "Контакты",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
@@ -60,7 +60,7 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "restError1": {
-    "message": "Ошибка: не правильное имя пользователя или пароль",
+    "message": "Ошибка: неправильное имя пользователя или пароль",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "restError2": {
@@ -200,7 +200,7 @@
     "context": "This is the main paragraph of the OMB notice."
   },
   "omb7sub": {
-    "message": "I have read this and agree.",
+    "message": "Я ознакомлен и согласен с условиями соглашения",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
