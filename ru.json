@@ -204,75 +204,90 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following Records",
+    "message": "Отслеживаемые записи",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
-    "message": "Settings",
+    "message": "Настройки",
     "context": "This is the name of the second tab of user preferences that shows user settings."
   },
   "pad3loading": {
-    "message": "Loading",
+    "message": "Идёт загрузка...",
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "You are not following any records.",
+    "message": "На данный момент у вас нету отслеживаемых записей",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "Unfollow",
+    "message": "Отписаться",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "UNSUBSCRIBED",
+    "message": "Вы не подписаны на получение уведомлений",
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "SUBSCRIBED",
+    "message": "Вы подписаны на получение уведомлений",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Subscribe to notifications",
+    "message": "Подписаться на получение уведомлений",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
-    "message": "From time to time, we may send out notifications to our users when a new event is created.",
+    "message": "Время от времени, мы можем отсылать уведомления нашим пользователям при создании новых событий.",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3changePasswordButton": {
-    "message": "Change Password",
+    "message": "Изменить пароль",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "Пароль должен содержать хотя бы одну цифру, одну заглавную и прописную буквы.",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
-    "message": "Old Password",
+    "message": "Текущий пароль",
     "context": "This is the placeholder text for the old password input."
   },
   "pad3newPassword1Placeholder": {
-    "message": "New Password",
+    "message": "Новый пароль",
     "context": "This is the placeholder text for the new password input."
   },
   "pad3newPassword2Placeholder": {
-    "message": "New Password Again",
+    "message": "Повторите новый пароль",
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "Your browser does not support push notifications.",
+    "message": "Ваш браузер не поддерживает функцию для всплывающих уведомлений",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "Вы заблокировали данный сайт от получения уведомлений. Вы должны разблокировать данное разрешение чтобы воспользоваться функцией.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Help Locating a Person or Animal",
+    "message": "Помочь найти человека или питомца",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at NLM PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be in. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You can select an event by tapping/clicking on the large green button under the image. This will take you directly to the search screen for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box and press Enter. The search results will update with the most relevant matches at the top. You may acquire more information about a result by tapping on the details link near the bottom of the record. This opens a detailed view in which you may view more detailed record information, add a comment of your own, or begin following a record to be notified about updates.",
+    message: "Если Вы ищете пропавшего человека или питомца, Вы можете попробовать найти их местоположение путём поиска по нашей базе происшествий \
+    "
+    "messageEng": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. \
+    When you first arrive at NLM PEOPLE LOCATOR, you are presented with a list of available disaster events. \
+    Each event has a name, a descriptive image related to the event, and some text describing the situation. \
+    If you scroll down, you will see there are a few different events from which you may select.  \
+    Choose the event which you believe the person or animal you are trying to locate would most likely be in. \
+    For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, \
+    you would choose this event. You can select an event by tapping/clicking on the large green button under the image. \
+    This will take you directly to the search screen for this particular disaster event. \
+    A new search box will appear at the top after you have made your selection. \
+    Enter the name of the person you are attempting to locate in this search box and press Enter. \
+    The search results will update with the most relevant matches at the top. \
+    You may acquire more information about a result by tapping on the details link near the bottom of the record. \
+    This opens a detailed view in which you may view more detailed record information, \
+    add a comment of your own, or begin following a record to be notified about updates.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
