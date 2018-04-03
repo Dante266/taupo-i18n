@@ -24,7 +24,7 @@
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
-    "message": "के बारे में",
+    "message": "बारे में",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
@@ -32,7 +32,7 @@
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
-    "message": "पहुँच क्षमता",
+    "message": "पहुंचना क्षमता",
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
@@ -44,7 +44,7 @@
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "सहारा",
+    "message": "उपाय",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
@@ -55,6 +55,10 @@
     "message": "ट्रेडमार्क",
     "context": "The link text for the Trademark link."
   },
+  "textTrademark": {
+    "message": "PEOPLE LOCATOR, ReUnite और TriagePic अमेरिका विभाग के स्वास्थ्य और मानव सेवा के ट्रेडमार्क पंजीकृत हैं",
+    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
+  },
   "expirationDate": {
     "message": "समाप्ति की तारीख",
     "context": "Verbiage describing the expiration date of the OMB notice."
@@ -64,7 +68,7 @@
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "restError2": {
-    "message": "त्रुटि: आपके अकाउंट अस्थायी रूप से बार बार लॉग इन करने में नाकाम रहने के लिए बंद कर दिया जाता है, बाद में फिर से कोशिश करें।",
+    "message": "त्रुटि: आपके अकाउंट बार बार गलत लॉग इन करने के कारण कुछ समय के लिये बंद कर दिया जाता है, बाद में फिर से कोशिश करें।",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
@@ -72,7 +76,7 @@
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
-    "message": "त्रुटि: एक प्रयोगकर्त्ता पहले से ही प्रदान ई-मेल पते के साथ विद्यमान है।",
+    "message": "त्रुटि: एक और प्रयोगकर्त्ता पहले से ही इस ई-मेल पते का उपयोग कर रहा है।",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "restError2001": {
@@ -192,11 +196,11 @@
     "context": "This is the first word of the OMB notice."
   },
   "omb7submission": {
-    "message": "सम्बाद के प्रस्तुत स्वेच्छापूर्वक है। सभी प्रस्तुत सम्बाद सार्वजनिक रूप से उपलब्ध कराया जाएगा।",
+    "message": "सम्बाद के प्रस्तुत स्वेच्छापूर्वक है। सभी प्रस्तुत सम्बाद खुले रूप से प्रचार कराया जाएगा।",
     "context": "These are the first two sentences of the OMB notice."
   },
   "omb7text": {
-    "message": "सूचना के इस संग्रह के लिए सार्वजनिक रिपोर्टिंग बोझ प्रतिक्रिया के प्रति औसत 3 मिनट का अनुमान है। यह अनुमान निर्देश की समीक्षा सभा, और डेटा में प्रवेश के लिए समय भी शामिल है। यदि एक एजेंसी के आचरण या नहीं प्रायोजक है, और एक व्यक्ति जब तक यह एक वर्तमान में मान्य OMB नियंत्रण संख्या प्रदर्शित करने के लिए सम्बाद का एक संग्रह, प्रतिक्रिया करने के लिए आवश्यक नहीं है। इस बोझ अनुमान या सूचना के इस संग्रह के लिए इस बोझ को कम करने के लिए सुझाव भी शामिल है के किसी अन्य पहलू के बारे में टिप्पणी भेजें :",
+    "message": "सूचना के इस संग्रह के लिए खुले रूप रिपोर्टिंग बोझ प्रतिक्रिया के प्रति औसत 3 मिनट का अनुमान है। यह अनुमान निर्देश की समीक्षा सभा, और डेटा में प्रवेश के लिए समय भी शामिल है। यदि एक एजेंसी के आचरण या नहीं प्रायोजक है, और एक व्यक्ति जब तक यह एक वर्तमान में मान्य OMB नियंत्रण संख्या प्रदर्शित करने के लिए सम्बाद का एक संग्रह, प्रतिक्रिया करने के लिए आवश्यक नहीं है। इस बोझ अनुमान या सूचना के इस संग्रह के लिए इस बोझ को कम करने के लिए सुझाव भी शामिल है के किसी अन्य पहलू के बारे में टिप्पणी भेजें :",
     "context": "This is the main paragraph of the OMB notice."
   },
   "omb7sub": {
@@ -204,7 +208,7 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "निम्न रिकॉर्ड",
+    "message": "निम्न रेकर्ड",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
@@ -216,7 +220,7 @@
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "आप किसी भी रिकॉर्ड का अनुसरण नहीं कर रहे हैं।",
+    "message": "आप किसी भी रेकर्ड का अनुसरण नहीं कर रहे हैं।",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
@@ -272,7 +276,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "यदि आप किसी लापता व्यक्ति या जानवर की तलाश में हैं, तो आप हमारी आपद की घटनाओं में से किसी एक को ढूंढकर उनका पता लगाने का प्रयास कर सकते हैं। आप पहली बार लोगों लोकेटर पर पहुंचने, आपदा की घटनाओं की एक सूची आपको प्रस्तुत किया जाएगा। प्रत्येक घटना का एक नाम, घटना से संबंधित एक वर्णनात्मक छवि, और स्थिति का कुछ विवरण है। यदि आप नीचे स्क्रॉल करते हैं, तो आप देखेंगे कि वहां कुछ अलग-अलग घटनाएं हैं, जिनसे आप किसीको चुन सकते हैं। जो घटना मे आप सोचते हैं कि, जिस व्यक्ति या जानवर को आप ढूंढने का प्रयास कर रहे हैं, उसका सबसे अधिक संभावना होगी, उस घटना को चुनें । उदाहरण के लिए, यदि हैती भूकंप नाम का कोई घटना था और जिस व्यक्ति को आप खोज रहे हैं वह हैती में आखिरी बार देखा गया था, तो आप इस घटना का चयन करेंगे। आप छवि के नीचे बड़े हरे बटन पर टैप / क्लिक करके कोई भी घटना चुन सकते हैं। यह आपको इस विशेष आपदा घटना के लिए खोज करनेका स्क्रीन पर सीधे ले जाएगा। आपके चयन के बाद शीर्ष पर एक नया खोज बॉक्स दिखाई देगा। जिसे आप ढूंढने का प्रयास कर रहे हैं, उस व्यक्ति का नाम इस खोज बॉक्स में दर्ज करें और Enter दबाएं । शीर्ष पर सबसे प्रासंगिक मिलानों के साथ खोज परिणाम अपडेट होंगे । रिकॉर्ड के निचले भाग के निकट विवरण लिंक पर टैप करके आप परिणाम के बारे में अधिक जानकारी प्राप्त कर सकते हैं। इससे एक विस्तृत दृश्य खुलता है जिसमें आप अधिक विस्तृत रिकॉर्ड जानकारी देख सकते हैं, अपनी खुद की टिप्पणी जोड़ सकते हैं, या अद्यतन के बारे में अधिसूचित होने के लिए एक रिकॉर्ड के बाद शुरू कर सकते हैं। ",
+    "message": "यदि आप किसी लापता व्यक्ति या जानवर की तलाश में हैं, तो आप हमारी आपद की घटनाओं में से किसी एक को ढूंढकर उनका पता लगाने का प्रयास कर सकते हैं। आप पहली बार लोगों लोकेटर पर पहुंचने, आपद की घटनाओं की एक सूची आपको प्रस्तुत किया जाएगा। प्रत्येक घटना का एक नाम, घटना से संबंधित एक वर्णनात्मक छवि, और स्थिति का कुछ विवरण है। यदि आप नीचे स्क्रॉल करते हैं, तो आप देखेंगे कि वहां कुछ अलग-अलग घटनाएं हैं, जिनसे आप किसीको चुन सकते हैं। जो घटना मे आप सोचते हैं कि, जिस व्यक्ति या जानवर को आप ढूंढने का प्रयास कर रहे हैं, उसका सबसे अधिक संभावना होगी, उस घटना को चुनें । उदाहरण के लिए, यदि हैती भूकंप नाम का कोई घटना था और जिस व्यक्ति को आप खोज रहे हैं वह हैती में आखिरी बार देखा गया था, तो आप इस घटना का चयन करेंगे। आप छवि के नीचे बड़े हरे बटन पर टैप / क्लिक करके कोई भी घटना चुन सकते हैं। यह आपको इस विशेष आपद घटना के लिए खोज करनेका स्क्रीन पर सीधे ले जाएगा। आपके चयन के बाद शीर्ष पर एक नया खोज बॉक्स दिखाई देगा। जिसे आप ढूंढने का प्रयास कर रहे हैं, उस व्यक्ति का नाम इस खोज बॉक्स में दर्ज करें और Enter दबाएं । शीर्ष पर सबसे प्रासंगिक मिलानों के साथ खोज परिणाम अपडेट होंगे । रेकर्ड के निचले भाग के निकट विवरण लिंक पर टैप करके आप परिणाम के बारे में अधिक जानकारी प्राप्त कर सकते हैं। इससे एक विस्तृत दृश्य खुलता है जिसमें आप अधिक विस्तृत रेकर्ड जानकारी देख सकते हैं, अपनी खुद की टिप्पणी जोड़ सकते हैं, या अद्यतन के बारे में अधिसूचित होने के लिए एक रेकर्ड के बाद शुरू कर सकते हैं। ",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
@@ -280,15 +284,15 @@
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "आप जिस व्यक्ति या जानवर को ढूंढ़ते हैं, यदि उसे पाने में असमर्थ हैं, तो आप इस व्यक्ति या जानवर को हमारे \"लोग लोकाटर\" रजिस्ट्री में रिपोर्ट कर सकते हैं। एक आपद घटना पर पहुंच ने के बाद, आप स्क्रीन के नीचे दाईं एक गुलाबी तिरती एक्शन बटन देखेंगे। आप इस बटन पर क्लिक करने से आपको एक विज़ार्ड में लॉन्च किया जाएगा, जो आपको एक रिपोर्ट दाखिल करने की मार्गदर्शन करेगा। एक बार पूरा होने पर, आपकी रिपोर्ट हमारी खोज योग्य रजिस्ट्री में दर्ज की जाएगी और दूसरों के लिए खुले रूप से दिखाई देगी। यदि आपकी रिपोर्ट अनाम रूप से नहीं की गई थी तो आप स्वचालित रूप से अपनी रिपोर्ट का अपडेट पालन करना शुरू करेंगे. जिस व्यक्ति या जानवर के बारे में आपने रिपोर्ट किया था, दूसरों ने आपके रिकॉर्ड पर उसके के बारे में नई जानकारी के साथ टिप्पणी कर सकते हैं. अपडेट आपको ईमेल या पुश सूचनाओं के माध्यम से भेजे जाएंगे।",
-    "context": "This is the help page article body describing in detail how to report a person or animal."
+    "message": "आप जिस व्यक्ति या जानवर को ढूंढ़ते हैं, यदि उसे पाने में असमर्थ हैं, तो आप इस व्यक्ति या जानवर को हमारे \"लोग लोकाटर\" रजिस्ट्री में रिपोर्ट कर सकते हैं। एक आपद घटना पर पहुंच ने के बाद, आप स्क्रीन के नीचे दाईं एक गुलाबी तिरती एक्शन बटन देखेंगे। आप इस बटन पर क्लिक करने से आपको एक विज़ार्ड में लॉन्च किया जाएगा, जो आपको एक रिपोर्ट दाखिल करने की मार्गदर्शन करेगा। एक बार पूरा होने पर, आपकी रिपोर्ट हमारी खोज योग्य रजिस्ट्री में दर्ज की जाएगी और दूसरों के लिए खुले रूप से दिखाई देगी। यदि आपकी रिपोर्ट अनाम रूप से नहीं की गई थी तो आप स्वचालित रूप से अपनी रिपोर्ट का अपडेट पालन करना शुरू करेंगे. जिस व्यक्ति या जानवर के बारे में आपने रिपोर्ट किया था, दूसरों ने आपके रेकर्ड पर उसके के बारे में नई जानकारी के साथ टिप्पणी कर सकते हैं. अपडेट आपको ईमेल या पुश सूचनाओं के माध्यम से भेजे जाएंगे।",
+	"context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
-    "message": "इस साइट संयुक्त राज्य अमेरिका कि राष्ट्रीय मेडिसिन पुस्तकालय, बेथेस्डा, मेरीलैंड (NLM) द्वारा प्रदान की जाती है। NLM स्वास्थ्य के राष्ट्रीय संस्थान, संयुक्त राज्य अमेरिका के स्वास्थ्य और मानव सेवा विभाग का भाग है और इसका  विशेष कार्य विकास और संचार प्रौद्योगिकी के समन्वय में स्वास्थ्य सेवाओं के वितरण में सुधार करने के लिए है। इस साइट के लिए आपदाओं का जवाब देने में ऐसे उपकरण की उपयोगिता का अध्ययन के उद्देश्य के लिए प्रदान की जाती है। अंतर्निहित प्रौद्योगिकी खोया व्यक्ति खोजक परियोजना, बेथेस्डा अस्पताल आपातकालीन तैयारियों साझेदारी में NLM के योगदान के भाग के माध्यम से विकसित किया गया था। साझेदारी प्रारंभिक संघीय LPF और अन्य NLM यह परियोजनाओं के लिए 2008 में धन प्राप्त किया। LPF परियोजना वर्तमान में बायोमेडिकल संचार के लिए राष्ट्रीय साक्षरता मिशन के लिस्टर हिल राष्ट्रीय केन्द्र के माध्यम से एनआईएच के अंदर का रिसर्च प्रोग्राम द्वारा समर्थित है। सॉफ्टवेयर विकास LHNCBC के कंप्यूटर विज्ञान शाखा और आपदा सूचना प्रबंधन अनुसंधान केन्द्र, राष्ट्रीय साक्षरता मिशन के विशेष सूचना सेवा के हिस्से से अतिरिक्त सामग्री के साथ LHNCBC का संचार इंजीनियरिंग शाखा के नेतृत्व में है ।",
+    "message": "इस साइट संयुक्त राज्य अमेरिका कि राष्ट्रीय मेडिसिन पुस्तकालय, बेथेस्डा, मेरीलैंड (NLM) द्वारा प्रदान की जाती है। NLM स्वास्थ्य के राष्ट्रीय संस्थान, संयुक्त राज्य अमेरिका के स्वास्थ्य और मानव सेवा विभाग का भाग है और इसका  विशेष कार्य विकास और संचार प्रौद्योगिकी के समन्वय में स्वास्थ्य सेवाओं के वितरण में सुधार करने के लिए है। इस साइट के लिए आपदाओं का जवाब देने में ऐसे उपकरण की उपयोगिता का अध्ययन के उद्देश्य के लिए प्रदान की जाती है। अंतर्निहित प्रौद्योगिकी खोया व्यक्ति खोजक परियोजना, बेथेस्डा अस्पताल आपातकालीन तैयारियों साझेदारी में NLM के योगदान के भाग के माध्यम से विकसित किया गया था। साझेदारी प्रारंभिक संघीय LPF और अन्य NLM यह परियोजनाओं के लिए 2008 में धन प्राप्त किया। LPF परियोजना वर्तमान में बायोमेडिकल संचार के लिए राष्ट्रीय साक्षरता मिशन के लिस्टर हिल राष्ट्रीय केन्द्र के माध्यम से एनआईएच के अंदर का रिसर्च प्रोग्राम द्वारा समर्थित है। सॉफ्टवेयर विकास LHNCBC के कंप्यूटर विज्ञान शाखा और आपद सूचना प्रबंधन अनुसंधान केन्द्र, राष्ट्रीय साक्षरता मिशन के विशेष सूचना सेवा के हिस्से से अतिरिक्त सामग्री के साथ LHNCBC का संचार इंजीनियरिंग शाखा के नेतृत्व में है ।",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "आप कुकी और जावास्क्रिप्ट अपने वेब ब्राउज़र में सक्षम होना चाहिए। क्रोम, फायरफॉक्स, सफारी, ओपेरा , एज , या इंटरनेट एक्सप्लोरर: तुम भी दो निम्न वेब ब्राउज़र का सबसे हाल के संस्करणों में से एक होना चाहिए।",
+    "message": "कुकी और जावास्क्रिप्ट अपने वेब ब्राउज़र में सक्षम होना चाहिए। क्रोम, फायरफॉक्स, सफारी, ओपेरा , एज , या इंटरनेट एक्सप्लोरर: आपको इन वेब ब्राउज़रों में से एक के दो सबसे हाल के संस्करणों में से एक होना चाहिए:।",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
@@ -304,7 +308,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "जब तक अन्यथा इंगित , समुदाय आधारित डेटा इस वेब साइट पर निहित जनता के लिए उपलब्ध हैं और वेब साइट के लिए सभी आगंतुकों द्वारा आसान है। डाटा, विभिन्न स्रोतों से प्राप्त किया जा सकता है के रूप में के माध्यम से राष्ट्रीय साक्षरता मिशन के लिए सीधी रिपोर्टिंग द्वारा व्यक्तिगत रिकॉर्ड पर संकेत :",
+    "message": "जब तक अन्यथा इंगित , समुदाय आधारित डेटा इस वेब साइट पर निहित जनता के लिए उपलब्ध हैं और वेब साइट के लिए सभी आगंतुकों द्वारा आसान है। डाटा, विभिन्न स्रोतों से प्राप्त किया जा सकता है के रूप में के माध्यम से राष्ट्रीय साक्षरता मिशन के लिए सीधी रिपोर्टिंग द्वारा व्यक्तिगत रेकर्ड पर संकेत :",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -364,7 +368,7 @@
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "आपदा संसाधन",
+    "message": "आपद संसाधन",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
@@ -392,7 +396,7 @@
     "context": "fourth bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
-    "message": "एनएलएम के आपदा प्रबंधन सूचना रिसर्च सेंटर से",
+    "message": "एनएलएम के आपद प्रबंधन सूचना रिसर्च सेंटर से",
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
@@ -432,11 +436,11 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "आपदाओं के समय लापता परिवार, दोस्तों, और जाते को पता लगाना और रिपोर्ट करना ",
+    "message": "आपदाओं के समय लापता परिवार, दोस्तों, और जानवरों को पता लगाना और रिपोर्ट करना ",
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "आपदाओं के समय लापता परिवार, दोस्तों, और जाते को पता लगाना और रिपोर्ट करना",
+    "message": "आपदाओं के समय लापता परिवार, दोस्तों, और जानवरों को पता लगाना और रिपोर्ट करना",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -444,7 +448,7 @@
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "eventListFindReportButton": {
-    "message": "एक व्यक्ति या पशु की पता लगाता या रिपोर्टिंग करता।",
+    "message": "एक व्यक्ति या पशु की पता लगाना या रिपोर्टिंग करना।",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
@@ -452,7 +456,7 @@
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
-    "message": "अभिलेख",
+    "message": "रेकार्ड",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
@@ -508,7 +512,7 @@
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "हो सकता है तो आप इस रिकॉर्ड के बारे में कोई अतिरिक्त सम्बाद जोड़ें",
+    "message": "हो सकता है तो आप इस रेकर्ड के बारे में कोई अधिक सम्बाद जोड़ें",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
@@ -538,6 +542,10 @@
   "lastKnownLocation": {
     "message": "आखरी ज्ञात स्थान",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
+  },
+  "lastKnownInformation": {
+    "message": "आखरी ज्ञात सम्बाद",
+    "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
     "message": "अन्य सम्बाद",
@@ -641,7 +649,7 @@
   },
   "explainSexOtherP": {
     "message": "व्यक्ति का लिंग अन्य है",
-    "context": "The label next to the person sex selection button for other."
+	"context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
     "message": "व्यक्ति का लिंग अज्ञात है",
@@ -668,7 +676,7 @@
     "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
   },
   "reportChoiceAgeA": {
-    "message": "जिस पशु की आप रिपोर्ट कर रहे हैं, कृपया उसकी अनुमानित उम्र चुनिए", 
+	"message": "जिस पशु की आप रिपोर्ट कर रहे हैं, कृपया उसकी अनुमानित उम्र चुनिए", 
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
@@ -684,7 +692,7 @@
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
-    "message": "जारी रखें",
+    "message": "चालू रखें",
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
@@ -831,16 +839,12 @@
     "message": "आप जब अनाम रूप से रिपोर्ट भेजें, तब इस पशु के बारे में अधिक सम्बाद मिलने से आपको सूचित नहीं किया जाएगा।",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not receive any updates afterwards."
   },
-  "explainAnon2": {
-    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
-    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
-  },
   "reportComplete": {
     "message": "रिपोर्ट संपूर्ण और प्रस्तुत, धन्यवाद।",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
-    "message": "यह अपनी पूरी रिपोर्ट के लिए URL है। आप बाद में इस रिकॉर्ड पर दिया गयी टिप्पणी और / या अधिक सम्बाद देखने के लिए यह URL को वापस आ सकते हैं।",
+    "message": "यह अपनी पूरी रिपोर्ट के लिए URL है। आप बाद में इस रेकर्ड पर दिया गयी टिप्पणी और / या अधिक सम्बाद देखने के लिए यह URL को वापस आ सकते हैं।",
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
@@ -852,11 +856,11 @@
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "आप अब इस रिकॉर्ड का अनुसरण कर रहे हैं, यह बदलाने से या टिप्पणी जोड़ा जाने से आप अद्यतन प्राप्त करेंगे।",
+    "message": "आप अब इस रेकर्ड का अनुसरण कर रहे हैं, यह बदलाने से या टिप्पणी जोड़ा जाने से आप अद्यतन प्राप्त करेंगे।",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "आप इस रिकॉर्ड का अनुसरण और नहीं कर रहे हैं",
+    "message": "आप इस रेकर्ड का अनुसरण और नहीं कर रहे हैं",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
@@ -868,11 +872,11 @@
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "जब यह रिकॉर्ड की कोई परिवर्तन किया गया या टिप्पणी जोड़ा गया, उसका सूचना प्राप्त करें",
+    "message": "जब यह रेकर्ड की कोई परिवर्तन किया गया या टिप्पणी जोड़ा गया, उसका सूचना प्राप्त करें",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "जब यह रिकॉर्ड की कोई परिवर्तन किया गया या टिप्पणी जोड़ा गया, ये सूचना प्राप्त करने के लिए आप को पहले साइन इन करना होगा",
+    "message": "जब यह रेकर्ड की कोई परिवर्तन किया गया या टिप्पणी जोड़ा गया, ये सूचना प्राप्त करने के लिए आप को पहले साइन इन करना होगा",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
@@ -924,20 +928,20 @@
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "eurl3": {
-    "message": "Send Email",
+    "message": "ईमेल भेजें",
     "context": "This text appears under the button to share an event via clipboard."
   },
   "eurl4": {
-    "message": "Share",
+    "message": "सहकारिता करें",
     "context": "This button text label appears on the button for a user to share an event or record."
   },
   "eurl5": {
-    "message": "Share this record",
+    "message": "रिकॉर्ड में सहकारिता करें",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share record button."
   },
   "page404": {
-    "message": "404: इस पृष्ठ मौजूद नहीं है।",
-    "context": "This toast is displayed when a user attempts to visit a non-existant page."
+    "message": "404: इस पृष्ठ का अस्तित्व नहीं है।",
+    "context": "This toast is displayed when a user attempts to visit a non-existent page."
   },
   "ombNoticeTitle": {
     "message": "OMB सूचना",
@@ -972,15 +976,15 @@
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "धन्यवाद। हमें आपका दुर्व्यवहार के दावे प्राप्त हुआ है। हमारी साइट स्टाफ इस रिकॉर्ड की समीक्षा करें और किसी भी अनुचित सामग्री दूर करें।",
+    "message": "धन्यवाद। हमें आपका दुर्व्यवहार के दावे प्राप्त हुआ है। हमारी साइट स्टाफ इस रेकर्ड की समीक्षा करें और किसी भी अनुचित सामग्री दूर करें।",
     "context": ""
   },
   "deleteRecord": {
-    "message": "रिकॉर्ड हटाएँ",
+    "message": "रेकर्ड हटाएँ",
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
-    "message": "क्या आप इस रिकॉर्ड को ज़रूर हटाना चाहते हैं? एक बार इसे हटा दिया गया है तो आपका रिकॉर्ड डेटा को पुनर्प्राप्त करने के कोई रास्ता नहीं।",
+    "message": "क्या आप इस रेकर्ड को ज़रूर हटाना चाहते हैं? एक बार इसे हटा दिया गया है तो आपका रेकर्ड डेटा को पुनर्प्राप्त करने के कोई रास्ता नहीं।",
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
@@ -992,7 +996,7 @@
     "context": "Button label to confirm the deletion of a record."
   },
   "deleteRecordDone": {
-    "message": "रिकॉर्ड हटाया गया",
+    "message": "रेकर्ड हटाया गया",
     "context": "A toast notification displayed to inform the user the deletion of a record action has been completed."
   },
   "seconds": {
@@ -1000,7 +1004,7 @@
     "context": "This word means seconds of time."
   },
   "record": {
-    "message": "रिकॉर्ड",
+    "message": "रेकर्ड",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   },
   "notifyLogout": {
@@ -1019,16 +1023,16 @@
     "message": "खींचें और छोड़ें",
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   },
-  "emailRecordRevisionSubject": {
-    "message": "आप अनुसरण करने बलि रिकॉर्ड अपडेट हुई है",
+    "emailRecordRevisionSubject": {
+    "message": "आप अनुसरण करने बलि रेकर्ड अपडेट हुई है",
     "context": "We email users following a record when a revision is made or a comment is added, this is the subject of that email."
   },
   "emailRecordRevisionLine1": {
-    "message": "आप जिस रिकॉर्ड के अनुसरण कर रहे हैं उसमें किसी टिप्पणी को जोड़ दिया गया है या संशोधन किया गया है।",
+    "message": "आप जिस रेकर्ड के अनुसरण कर रहे हैं उसमें किसी टिप्पणी को जोड़ दिया गया है या संशोधन किया गया है।",
     "context": "We email users following a record when a revision is made or a comment is added, this is the first line of that email."
   },
   "emailRecordRevisionLine2": {
-    "message": "आप इस स्थान पर रिकॉर्ड की समीक्षा कर सकते हैं:",
+    "message": "आप इस स्थान पर रेकर्ड की समीक्षा कर सकते हैं:",
     "context": "We email users following a record when a revision is made or a comment is added, this line prefixes the direct record url."
   },
   "emailRecordRevisionLine3": {
@@ -1096,7 +1100,7 @@
     "context": "This is s menu button action that shows a larger version of the image from a record."
   },
   "shareRecord": {
-    "message": "इस रिकॉर्ड को सहभाग करें",
+    "message": "इस रेकर्ड को सहभाग करें",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
   },
   "additionalInformation": {
@@ -1108,7 +1112,7 @@
     "context": "This substring 'in event' will appear atop search results under the search bar after '27 record' but before the event name (0.123 seconds)"
   },
   "viewOriginalRecord": {
-    "message": "मूल रिकॉर्ड देखें",
+    "message": "मूल रेकर्ड देखें",
     "context": "This link appears on record with a forieign origin. Tapping on the link will open the record from its original location."
   },
   "ncmec1": {
@@ -1128,7 +1132,7 @@
     "context":  "Find and report missing people and animals in any disaster using this website."
   },
   "eventListMeta2": {
-    "message": "किसी भी आपदा में",
+    "message": "किसी भी आपद में",
     "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
@@ -1180,11 +1184,11 @@
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
   },
   "aboutMeta2": {
-    "message": "आपदाओं के दौरान लापता लोगों और जानवरों की खोजने और विवरणी के लिए.",
+    "message": "आपदाओं के समय लापता लोगों और जानवरों की खोजने और विवरणी के लिए.",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
   },
   "helpMeta": {
-    "message": "आप सीखो की नेशनल लाइब्रेरी ऑफ मेडिसिन पर आपदाओं के दौरान लोगों और जानवरों को कैसे ढूंढें और उनके बारे में जानें।",
+    "message": "आप सीखो की नेशनल लाइब्रेरी ऑफ मेडिसिन पर आपदाओं के समय लोगों और जानवरों को कैसे ढूंढें और उनके बारे में जानें।",
     "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
@@ -1192,7 +1196,7 @@
     "content": "Additional National Library of Medicine resources for finding people."
   },
   "followUsMeta": {
-    "message": "नेशनल लाइब्रेरी ऑफ मेडीसिन से सोशल मीडिया पर आपदा अलर्ट प्राप्त करें",
+    "message": "नेशनल लाइब्रेरी ऑफ मेडीसिन से सोशल मीडिया पर आपद अलर्ट प्राप्त करें",
     "content": "Receive disaster alerts on social media from the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "privacyMeta": {
@@ -1224,3 +1228,5 @@
     "context": "Title for a menu of PL events."
   }
 }
+
+
