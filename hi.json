@@ -55,10 +55,6 @@
     "message": "ट्रेडमार्क",
     "context": "The link text for the Trademark link."
   },
-  "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite और TriagePic अमेरिका विभाग के स्वास्थ्य और मानव सेवा के ट्रेडमार्क पंजीकृत हैं",
-    "context": "Verbiage describing the three registered trademarks we hold on People Locator."
-  },
   "expirationDate": {
     "message": "समाप्ति की तारीख",
     "context": "Verbiage describing the expiration date of the OMB notice."
@@ -208,8 +204,8 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "निम्न रेकर्ड",
-    "context": "This is the name of the first tab of user preferences that shows which records a user is following."
+    "message": "Following",
+    "context": "This is the name of the first tab of user preferences that shows which records a user is following -- shortened to 1 word!"
   },
   "pad3settings": {
     "message": "सेटिंग्स",
@@ -235,13 +231,21 @@
     "message": "सदस्यता ली",
     "context": "This text label tells the status of the user being subscribed to receive notifications."
   },
-  "pad3subscribeTo": {
-    "message": "सूचनाओं की सदस्यता ली",
-    "context": "This is the title text to the section that allows a user to opt-in to receive push notifications."
+  "pad3record": {
+    "message": "Receive updates to records that you are following via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
-  "pad3Time": {
-    "message": "समय-समय पर, जब एक नई घटना बन जाता है, हम हमारे प्रयोगकर्त्ताओं के लिए सूचनाएँ भेज सकते हैं।",
-    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  "pad3event": {
+    "message": "Receive a message when a new event is created via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
+  },
+  "pad3admin": {
+    "message": "Receive Admin messages via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
+  },
+  "pushNotification": {
+    "message": "Push Notification",
+    "context": "This describes a button label for a Push Notification option."
   },
   "pad3changePasswordButton": {
     "message": "पासवर्ड बदल करें",
@@ -543,10 +547,6 @@
     "message": "आखरी ज्ञात स्थान",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
-  "lastKnownInformation": {
-    "message": "आखरी ज्ञात सम्बाद",
-    "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
-  },
   "otherInformation": {
     "message": "अन्य सम्बाद",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
@@ -795,10 +795,6 @@
     "message": "अनाम रूप से दाखल करें",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
-  "reportChoiceInformation": {
-    "message": "पिछले ज्ञात सम्बाद",
-    "context": "This is the section title for allowing the user to enter free text information about the person/animal."
-  },
   "reportChoiceInformationHelpP": {
     "message": "दूसरों की इस व्यक्ति का पहचान या पता लगाने में सहायता करने के लिए आप अधिक सम्बाद प्रदान कर सकते हैं।",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
@@ -838,6 +834,10 @@
   "explainAnonA": {
     "message": "आप जब अनाम रूप से रिपोर्ट भेजें, तब इस पशु के बारे में अधिक सम्बाद मिलने से आपको सूचित नहीं किया जाएगा।",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not receive any updates afterwards."
+  },
+  "explainAnon2": {
+    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
     "message": "रिपोर्ट संपूर्ण और प्रस्तुत, धन्यवाद।",
@@ -1023,7 +1023,7 @@
     "message": "खींचें और छोड़ें",
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   },
-    "emailRecordRevisionSubject": {
+  "emailRecordRevisionSubject": {
     "message": "आप अनुसरण करने बलि रेकर्ड अपडेट हुई है",
     "context": "We email users following a record when a revision is made or a comment is added, this is the subject of that email."
   },
@@ -1228,5 +1228,3 @@
     "context": "Title for a menu of PL events."
   }
 }
-
-

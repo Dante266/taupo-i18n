@@ -204,8 +204,8 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "次のレコード",
-    "context": "This is the name of the first tab of user preferences that shows which records a user is following."
+    "message": "Following",
+    "context": "This is the name of the first tab of user preferences that shows which records a user is following -- shortened to 1 word!"
   },
   "pad3settings": {
     "message": "設定",
@@ -231,13 +231,21 @@
     "message": "購読中",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
-  "pad3subscribeTo": {
-    "message": "お知らせを購読中",
-    "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
+  "pad3record": {
+    "message": "Receive updates to records that you are following via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
-  "pad3Time": {
-    "message": "新しいイベントがあった場合には、時々、ユーザにお知らせを送ることがあります。",
-    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  "pad3event": {
+    "message": "Receive a message when a new event is created via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
+  },
+  "pad3admin": {
+    "message": "Receive Admin messages via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
+  },
+  "pushNotification": {
+    "message": "Push Notification",
+    "context": "This describes a button label for a Push Notification option."
   },
   "pad3changePasswordButton": {
     "message": "パスワード変更",

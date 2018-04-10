@@ -204,8 +204,8 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following Records",
-    "context": "This is the name of the first tab of user preferences that shows which records a user is following."
+    "message": "Following",
+    "context": "This is the name of the first tab of user preferences that shows which records a user is following -- shortened to 1 word!"
   },
   "pad3settings": {
     "message": "Settings",
@@ -231,13 +231,21 @@
     "message": "SUBSCRIBED",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
-  "pad3subscribeTo": {
-    "message": "Subscribe to notifications",
-    "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
+  "pad3record": {
+    "message": "Receive updates to records that you are following via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
-  "pad3Time": {
-    "message": "From time to time, we may send out notifications to our users when a new event is created.",
-    "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
+  "pad3event": {
+    "message": "Receive a message when a new event is created via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
+  },
+  "pad3admin": {
+    "message": "Receive Admin messages via",
+    "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
+  },
+  "pushNotification": {
+    "message": "Push Notification",
+    "context": "This describes a button label for a Push Notification option."
   },
   "pad3changePasswordButton": {
     "message": "Change Password",
@@ -1087,8 +1095,6 @@
     "message": "Choose a language",
     "context": "We prompt the user to select a language at first visit."
   },
-  
-  
   "zoomPhoto": {
     "message": "Enlarge Photo",
     "context": "This is s menu button action that shows a larger version of the image from a record."
@@ -1097,8 +1103,6 @@
     "message": "Share this record",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
   },
-  
-  
   "additionalInformation": {
     "message": "Additional Information",
     "context": "This is a label displayed several places titled Additional Information."
