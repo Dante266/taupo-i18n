@@ -204,7 +204,7 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following",
+    "message": "跟蹤",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following -- shortened to 1 word!"
   },
   "pad3settings": {
@@ -232,11 +232,11 @@
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3record": {
-    "message": "Receive updates to records that you are following via",
+    "message": "請選擇以下方式，接收有了更新的跟蹤記錄",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
   "pad3event": {
-    "message": "Receive a message when a new event is created via",
+    "message": "請選擇以下方式，接收有了新事件建立的信息",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
   },
   "pad3admin": {
@@ -244,7 +244,7 @@
     "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
   },
   "pushNotification": {
-    "message": "Push Notification",
+    "message": "推送通知",
     "context": "This describes a button label for a Push Notification option."
   },
   "pad3changePasswordButton": {
