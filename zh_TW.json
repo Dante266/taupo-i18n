@@ -139,14 +139,6 @@
     "message": "密碼修改成功。",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "您已經退出訂閱，從此不會再收到我們的推送通知。",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "訂閱成功，從現在開始，您會收到我們的推送通知。 You are now subscribed to recieve notifications.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "我們已經給您送出壹封電子郵件，介紹如何重置密碼。",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "跳出此頁",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "還未訂閱",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "已訂閱",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "請選擇以下方式，接收有了更新的跟蹤記錄",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "重新輸入新密碼",
     "context": "This is the placeholder text for the new password again input."
-  },
-    "pushNotificationsUnsupported": {
-    "message": "您的瀏覽器不支持推送通知。",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "本網頁無法顯示推送通知，如要顯示，您需要在設置中改變權限。",

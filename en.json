@@ -139,14 +139,6 @@
     "message": "Password successfully changed.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "You are no longer subscribed to receive notifications.",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "You are now subscribed to receive notifications.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "You have been emailed instructions how to reset your password.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "Unfollow",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "UNSUBSCRIBED",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "SUBSCRIBED",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -267,12 +251,8 @@
     "message": "New Password Again",
     "context": "This is the placeholder text for the new password again input."
   },
-  "pushNotificationsUnsupported": {
-    "message": "Your browser does not support push notifications.",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
-  },
   "pushNotificationsDisallowed": {
-    "message": "You prohibited this application from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "You prohibited this application from displaying notifications. You must re-enable the permission to use this feature.",
     "context": "This text tells the user that they have prohibited the application from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {

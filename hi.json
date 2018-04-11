@@ -139,14 +139,6 @@
     "message": "पासवर्ड सफलतापूर्वक बदल दिया गया है।",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "आप सूचना प्राप्त करने के लिए अब और रेजिस्टर्ड नहीं हुए है।",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "अब आप सूचना प्राप्त करने के लिए रेजिस्टर्ड हैं।",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "आपको अपना पासवर्ड कैसे रीसेट करना होगा, ये निर्देश ई-मेल कर दिया गया है।",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "अनुसरण बंद करें",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "सदस्यता वापस",
-    "context": "This text label tells of the status of the user not being subscribed to receive notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "सदस्यता ली",
-    "context": "This text label tells the status of the user being subscribed to receive notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "फिर से नया पासवर्ड",
     "context": "This is the placeholder text for the new password again input."
-  },
-    "pushNotificationsUnsupported": {
-    "message": "आपके ब्राउज़र पुश सूचना का समर्थन नहीं करता है।",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "आप इस साइट को सूचना प्रदर्शित करने से निषिद्ध किये हैं। आप इस सुविधा का उपयोग करने के लिए इस अनुमति को पुन: सक्षम होना चाहिए।",

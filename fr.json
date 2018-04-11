@@ -139,14 +139,6 @@
     "message": "Votre mot de passe a été modifié avec succès.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "Vous n'êtes plus abonné aux notifications.",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "Vous êtes maintenant abonné aux notifications.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "Nous vous avons envoyé par courriel des instructions pour réinitialisez votre mot de passe.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "Ne pas suivre",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "Désabonné",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "Abonné",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "Retapez le nouveau mot de passe",
     "context": "This is the placeholder text for the new password again input."
-  },
-  "pushNotificationsUnsupported": {
-    "message": "Votre navigateur ne supporte pas les alertes instantanées.",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "Vous avez interdit ce site d'afficher les notifications. Vous devez réactiver cette option pour utiliser cette fonctionnalité.",

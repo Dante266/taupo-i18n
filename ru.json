@@ -139,14 +139,6 @@
     "message": "Пароль успешно изменен.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "Вы больше не подписаны на получение уведомлений",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "Вы подписаны на получение уведомлений.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "Инструкции о восстановлении пароля были отправлены вам по электронной почте.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "Отписаться",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "Вы не подписаны на получение уведомлений",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "Вы подписаны на получение уведомлений",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "Повторите новый пароль",
     "context": "This is the placeholder text for the new password again input."
-  },
-    "pushNotificationsUnsupported": {
-    "message": "Ваш браузер не поддерживает функцию для всплывающих уведомлений",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "Вы заблокировали данный сайт от получения уведомлений. Вы должны разблокировать данное разрешение чтобы воспользоваться функцией.",

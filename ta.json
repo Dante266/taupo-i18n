@@ -139,14 +139,6 @@
     "message": "கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "நீங்கள் அறிவிப்புகளை பொருத்தவும் குழுசேர்ந்துள்ளார் இனி.",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "அறிவிப்புகளை இப்போது பொருத்தவும் சந்தாப்படுத்தப்பட்டது.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "நீங்கள் எப்படி உங்கள் கடவுச்சொல்லை மீட்டமைக்க மின்னஞ்சலில் வழிமுறைகளை வருகின்றன.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "பின்தொடரா",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "குழுவிலக்கப்பட்டது",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "குழுசேர்க்கப்பட்டது",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "புதிய கடவுச்சொல் மீண்டும்",
     "context": "This is the placeholder text for the new password again input."
-  },
-  "pushNotificationsUnsupported": {
-    "message": "உங்கள் உலாவி மிகுதி அறிவிப்புகளை ஆதரிக்கவில்லை.",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "நீங்கள் அறிவிப்புகளை காண்பிக்கும் இருந்து இந்த தளத்தில் தடை . நீங்கள் இந்த வசதியை பயன்படுத்த இந்த அனுமதி மீண்டும் இயக்க வேண்டும்.",

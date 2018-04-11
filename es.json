@@ -139,14 +139,6 @@
     "message": "Contraseña cambiada correctamente.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "Ya no está subscrito para recibir notificaciones.",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "Ahora está subscrito para recibir notificaciones.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "Se le ha enviado por correo electrónico las instrucciones de cómo restablecer su contraseña.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "Dejar de seguir",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "NO SUBSCRITO",
-    "context": "This text label tells the status of the user's subscription to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "SUBSCRITO",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Recibir actualizaciones de los registros que esta siguiendo por la siguiente via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "Ingresar la nueva contraseña otra vez",
     "context": "This is the placeholder text for the new password again input."
-  },
-  "pushNotificationsUnsupported": {
-    "message": "Su navegador no es compatible con las notificaciones push.",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "Usted canceló las notificaciones. Debe volver a habilitar este permiso para utilizar esta función.",

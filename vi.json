@@ -139,14 +139,6 @@
     "message": "Mật khẩu đã được thay đổi thành công.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "Bạn không còn đăng ký để nhận thông báo.",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "Bạn hiện đã đăng ký nhận thông báo.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "Bạn đã được gửi hướng dẫn làm thế nào để thiết lập lại mật khẩu của bạn.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "Ngừng theo",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "Ngừng đăng ký",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "Đã được đăng ký",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "Mật khẩu mới lần nữa",
     "context": "This is the placeholder text for the new password again input."
-  },
-    "pushNotificationsUnsupported": {
-    "message": "Trình duyệt của bạn không chức năng 'push notifications'.",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "Bạn không cho trang web này hiển thị thông báo. Bạn phải cho phép trở lại để sử dụng tính năng này.",

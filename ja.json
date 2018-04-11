@@ -139,14 +139,6 @@
     "message": "パスワードの変更に成功しました.",
     "context": "This notification will appear after the user successfully changes their password."
   },
-  "notifyUnsubscribed": {
-    "message": "購読を中止したので、もうお知らせは届きません.",
-    "context": "This notification will appear after the user unsubscribed from recieving notifications."
-  },
-  "notifySubscribed": {
-    "message": "購読を開始しましたので、これからはお知らせが届くようになります.",
-    "context": "This notification will appear after the user subscribes to recieving notifications."
-  },
   "notifyResetPassword": {
     "message": "パスワードのリセットの仕方についてメールしました.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
@@ -223,14 +215,6 @@
     "message": "フォロー中止",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
-  "pad3subStatusUnsubscribed": {
-    "message": "購読中止",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
-  },
-  "pad3subStatusSubscribed": {
-    "message": "購読中",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
-  },
   "pad3record": {
     "message": "Receive updates to records that you are following via",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
@@ -266,10 +250,6 @@
   "pad3newPassword2Placeholder": {
     "message": "再度、新しいパスワード",
     "context": "This is the placeholder text for the new password again input."
-  },
-    "pushNotificationsUnsupported": {
-    "message": "あなたのブラウザーは、プッシュ型のお知らせをサポートしていません。",
-    "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "あなたは、このサイトに、お知らせを表示するのを禁止しています。あなたは、この設定を変える許可を再度与えなければなりません。",
