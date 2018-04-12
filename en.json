@@ -16,7 +16,7 @@
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
-    "message": "Administration",
+    "message": "Admin",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
@@ -83,10 +83,6 @@
     "message": "Error: password must be 8-16 characters in length, and must have at least one uppercase, one lowercase, and one numeric character",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "Error: incorrect human validation test result, please reload the page",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "Error: passwords do not match",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "An error has occurred, please try again later.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "Error getting subscription information. Please reload the page.",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "There was an error while unsubscribing.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "Logged in.",

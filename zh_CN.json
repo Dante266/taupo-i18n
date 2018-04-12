@@ -83,10 +83,6 @@
     "message": "错误：密码的长度必须是8至16个字符，其中至少含有一个大写字母，一个小写字母，一个数字",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "错误：验证结果有错误，请重新输入",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "错误：输入密码错误",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "错误：原因未知",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "错误：订阅推送通知时出错， 请刷新页面再试。",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "错误：退订推送通知时发生错误。",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "已经登录",

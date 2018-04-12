@@ -83,10 +83,6 @@
     "message": "பிழை: கடவுச்சொல்லின் நீளம் 8-16 எழுத்துக்கள் இருக்க வேண்டும் குறைந்தது ஒரு பெரிய எழுத்தில் , ஒரு ஸ்மால் , மற்றும் ஒரு எண் தன்மையை வேண்டும்",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "பிழை: தவறான மனித சரிபார்த்தல் சோதனை விளைவாக , பக்கத்தை மீண்டும் ஏற்றுக",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "பிழை: கடவுச்சொல் பொருத்தமாக இல்லை",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "அறியாத தவறு ஒன்று நிகழ்ந்து உள்ளது.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "சந்தா தகவல் பெறுவதில் பிழை. பக்கத்தை மீண்டும் ஏற்றவும்.",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "குழுவிலகுதலை போது பிழை இருந்தது.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "உள்நுழையப்பட்டது.",

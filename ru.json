@@ -83,10 +83,6 @@
     "message": "Ошибка: пароль должен иметь длину 8-16 символов и должен иметь как минимум один прописной, один строчный и один цифровой символ",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "Ошибка: неверный результат проверки достоверности человека, пожалуйста перезагрузите страницу",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "Ошибка: пароли не совпадают",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "Произошла ошибка, пожалуйста попробуйте ещё раз чуть позже.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "Ошибка при получении информации о подписке. Пожалуйста перезагрузите страницу.",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "При отмене подписки произошла ошибка.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "Вход произведён.",

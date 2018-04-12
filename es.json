@@ -83,10 +83,6 @@
     "message": "Error: la contraseña debe tener 8-16 caracteres de longitud, debe tener al menos una letra mayúscula, una minúscula y un carácter numérico",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "Error: resultado de la prueba de validación humana incorrecta, por favor vuelva a cargar la página",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "Error: las contraseñas no coinciden",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "Ha ocurrido un error desconocido.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "Error al obtener información de subscripción. Por favor vuelva a cargar la página",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "Hubo un error al intentar cancelar la subscripción",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "Conectado.",

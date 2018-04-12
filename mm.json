@@ -8,11 +8,11 @@
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "Sign In",
+    "message": "ဝင် ရန်",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Logout",
+    "message": "ထွက်ရန်",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
@@ -20,7 +20,7 @@
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
-    "message": "Help",
+    "message": "ကူညီပါ",
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
@@ -52,11 +52,11 @@
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
-    "message": "Trademark",
+    "message": "ကုန်အမှတ်တံဆိပ်",
     "context": "The link text for the Trademark link."
   },
   "expirationDate": {
-    "message": "EXPIRATION DATE",
+    "message": "သက်တမ်းကုန်ဆုံးရက်",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "restError1": {
@@ -82,10 +82,6 @@
   "restError2002": {
     "message": "Error: password must be 8-16 characters in length, and must have at least one uppercase, one lowercase, and one numeric character",
     "context": "Error message presented when user enters an invalid password."
-  },
-  "restError2003": {
-    "message": "Error: incorrect human validation test result, please reload the page",
-    "context": "Error message presented when the captcha system encounters invalid data."
   },
   "restError2004": {
     "message": "Error: passwords do not match",
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "An error has occurred, please try again later.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "Error getting subscription information. Please reload the page.",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "There was an error while unsubscribing.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "Logged in.",

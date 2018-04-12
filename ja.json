@@ -83,10 +83,6 @@
     "message": "エラー: パスワードは8-16の文字数で、少なくとも１つの大文字と、小文字、そして数字を含んでいる必要があります。",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "エラー: 人の一致がありません、そのページを再度ロードしてください",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "エラー: パスワードは不一致です",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "エラーが起きました、後ほどお試してください。",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "購読情報を取得に失敗しました。ページをリロードしてください。",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "購読中止の際にエラーがおきました.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "ログインしています.",

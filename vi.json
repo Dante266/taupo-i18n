@@ -83,10 +83,6 @@
     "message": "Lỗi: Mật khẩu phải có 8-16 ký tự, phải có ít nhất một chữ hoa, một chữ thường và một ký tự số",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "Lỗi: kết quả kiểm tra xác nhận người dùng không chính xác, vui lòng tải lại trang",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "Lỗi: mật khẩu không đúng",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "Một lỗi không rỏ đã xảy ra.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "Lỗi khi nhận được thông tin thuê bao. Hãy tải lại trang.",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "Có lỗi khi huỷ thuê bao.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "Đăng nhập.",

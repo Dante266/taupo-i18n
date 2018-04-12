@@ -83,10 +83,6 @@
     "message": "रुटि: पासवर्ड लंबाई में 8-16 अक्षर में होना चाहिए, कम से कम एक अपरकेस, लोअरकेस, और एक संख्यात्मक अक्षर होना चाहिए।",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "त्रुटि: गलत मानव प्रमाण परीक्षा फल, पृष्ठ पुनः लोड करें।",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "त्रुटि: पासवर्ड नहीं मिलते",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "एक अज्ञात त्रुटि उत्पन्न हुई। ",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "सदस्यता सम्बाद प्राप्त करने में त्रुटि। कृपया पृष्ठ को फिर से लोड करें।",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "सदस्यता समाप्ति के समय कोई त्रुटि हुई।",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "लॉग इन हुई।",

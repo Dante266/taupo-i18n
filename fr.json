@@ -83,10 +83,6 @@
     "message": "Erreur : le mot de passe doit être composé de 8 à 16 caractères, et doit contenir au moins une lettre en majuscule, une lettre en minuscule et un chiffre",
     "context": "Error message presented when user enters an invalid password."
   },
-  "restError2003": {
-    "message": "Erreur : échec du test humain, veuillez recharger la page",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
   "restError2004": {
     "message": "Erreur : les mots de passe ne correspondent pas",
     "context": "Error message presented when entered password do not match one another."
@@ -114,14 +110,6 @@
   "restError9999": {
     "message": "Une erreur inconnue s'est produite.",
     "context": "Error message presented when an unknown error has occurred."
-  },
-  "errorGettingSubscription": {
-    "message": "Erreur pendant le chargement des informations d'abonnement. Veuillez recharger la page.",
-    "context": "This error will be displayed when an error is encountered while loading the user subscription information."
-  },
-  "errorUnsubscribing": {
-    "message": "Erreur lors du désabonnement.",
-    "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
     "message": "Connecté.",
