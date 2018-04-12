@@ -216,15 +216,15 @@
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3record": {
-    "message": "请选择以下方式，接收有了更新的跟踪记录",
+    "message": "每当您跟踪的记录有了更新，请选择如何接受",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
   "pad3event": {
-    "message": "请选择以下方式，接收有了新事件建立的信息",
+    "message": "每当有新事件建立，请选择如何接受",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
   },
   "pad3admin": {
-    "message": "请选择以下方式，接收管理员的信息",
+    "message": "每当有管理员的信息发送，请选择如何接受",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
   },
   "pushNotification": {
