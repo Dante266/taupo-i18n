@@ -184,7 +184,7 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following",
+    "message": "Theo dõi",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following -- shortened to 1 word!"
   },
   "pad3settings": {
@@ -196,27 +196,27 @@
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "Bạn không theo bất cứ tài khoản.",
+    "message": "Bạn không theo dõi bất cứ tài khoản.",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "Ngừng theo",
+    "message": "Ngừng theo dõi",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3record": {
-    "message": "Receive updates to records that you are following via",
+    "message": "Nhận cập nhật các bản ghi mà bạn đang theo dõi thông qua",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
   "pad3event": {
-    "message": "Receive a message when a new event is created via",
+    "message": "Nhận tin nhắn khi một sự kiện mới được tạo qua",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
   },
   "pad3admin": {
-    "message": "Receive Admin messages via",
+    "message": "Nhận thông báo quản trị thông qua",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
   },
   "pushNotification": {
-    "message": "Push Notification",
+    "message": "Nhận Thông báo",
     "context": "This describes a button label for a Push Notification option."
   },
   "pad3changePasswordButton": {
