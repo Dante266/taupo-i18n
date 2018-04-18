@@ -184,7 +184,7 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following",
+    "message": "درج ذیل",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following -- shortened to 1 word!"
   },
   "pad3settings": {
