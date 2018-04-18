@@ -204,19 +204,19 @@
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3record": {
-    "message": "Receive updates to records that you are following via",
+    "message": "ریکارڈز کو اپ ڈیٹس حاصل کریں جو آپ کے ذریعے درج ذیل ہیں",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a record they are following is updated."
   },
   "pad3event": {
-    "message": "Receive a message when a new event is created via",
+    "message": "جب ایک نیا ایونٹ تخلیق ہوجاتا ہے تو ایک پیغام وصول کریں",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive messages from PL via push or email when a new event is created."
   },
   "pad3admin": {
-    "message": "Receive Admin messages via",
+    "message": "ذریعے منتظم پیغامات حاصل کریں",
     "context": "This verbiage describes the user settings section where a user can subscribe to receive admin messages from PL via push or email."
   },
   "pushNotification": {
-    "message": "Push Notification",
+    "message": "اطلاعات پش",
     "context": "This describes a button label for a Push Notification option."
   },
   "pad3changePasswordButton": {
