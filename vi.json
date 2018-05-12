@@ -319,10 +319,6 @@
     "message": "các",
     "context": "The word the."
   },
-  "backButton": {
-    "message": "TRỞ LẠI...",
-    "context": "The text label for all buttons allowing the user to navigate back."
-  },
   "pagePrivacyBullet1": {
     "message": "Chức năng báo cáo",
     "context": "The second half ot the first bullet point on the Privacy page."
@@ -395,14 +391,6 @@
     "message": "Thương Hiệu đăng ký  của Sở Y Tế và Dịch vụ Nhân sinh Hoa Kỳ.",
     "context": "The second half of the trademark sentence."
   },
-  "tabDisasterEvents": {
-    "message": "Sự kiện thảm họa",
-    "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
-  },
-  "tabFind": {
-    "message": "Tìm",
-    "context": "The title of the 2nd tab allowing someone to Find a person or pet."
-  },
   "tabReport": {
     "message": "Báo cáo",
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
@@ -430,10 +418,6 @@
   "records": {
     "message": "hồ sơ",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
-  },
-  "moreDetails": {
-    "message": "Xem chi tiết",
-    "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
     "message": "Nam giới",
@@ -491,10 +475,6 @@
     "message": "Theo dõi",
     "context": "A button allows a user to follow record updates."
   },
-  "followButtonLabel": {
-    "message": "Nhận được tất cả các bản cập nhật cho người này qua email",
-    "context": "This is the label below the follow button explaining to a user what it does."
-  },
   "name": {
     "message": "Tên",
     "context": "This label is displayed under the person or animal name."
@@ -514,10 +494,6 @@
   "lastKnownLocation": {
     "message": "Vị trí cuối cùng được nhìn thấy",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
-  },
-  "otherInformation": {
-    "message": "Thông tin khác",
-    "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
     "message": "Báo cáo mới",
@@ -623,14 +599,6 @@
     "message": "giới tính của người ấy chưa biết",
     "context": "The label next to the person sex selection button for unknown."
   },
-  "explainSexMaleA": {
-    "message": "giới tính của vật nuôi là giống đực",
-    "context": "The label next to the animal sex selection button for male."
-  },
-  "explainSexFemaleA": {
-    "message": "giới tính của vật nuôi là giống cái",
-    "context": "The label next to the animal sex selection button for female."
-  },
   "explainSexOtherA": {
     "message": "giới tính của vật nuôi là giống khác",
     "context": "The label next to the animal sex selection button for other."
@@ -686,10 +654,6 @@
   "reportChoiceNameUnknownP": {
     "message": "Nếu không chắc chắn tên, xin vui lòng chọn không rõ.",
     "context": "This is the section title displayed for the use to choose name unknown."
-  },
-  "reportChoiceNameUnknownA": {
-    "message": "Nếu không chắc chắn tên và mã số, xin vui lòng chọn không rõ.",
-    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
     "message": "Tên của người ấy chưa biết",
@@ -854,10 +818,6 @@
   "commentBeingSubmittedToast": {
     "message": "Bình luận được gửi ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
-  },
-  "eventInvalid": {
-    "message": "Sự kiện này không tồn tại.",
-    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
     "message": "Module này không tồn tại.",
@@ -1063,14 +1023,6 @@
     "message": "Chọn một ngôn ngữ",
     "context": "We prompt the user to select a language at first visit."
   },
-  "zoomPhoto": {
-    "message": "Phóng to ảnh",
-    "context": "This is s menu button action that shows a larger version of the image from a record."
-  },
-  "shareRecord": {
-    "message": "Chia sẻ hồ sơ này",
-    "context": "This is a menu button action allowing a user to share a direct link to a record."
-  },
   "additionalInformation": {
     "message": "Thông tin bổ sung",
     "context": "This is a label displayed several places titled Additional Information."
@@ -1098,10 +1050,6 @@
   "eventListMeta": {
     "message": "Tìm và báo cáo người và vật nuôi bị mất tích trong",
     "context":  "Find and report missing people and animals in any disaster using this website."
-  },
-  "eventListMeta2": {
-    "message": "bất kỳ thiên tai",
-    "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
     "message": "sử dụng trang web Thư viện Y Học Quốc Gia.",
@@ -1143,10 +1091,6 @@
     "message": "đã được báo cáo",
     "content": "Juan Valdez has been reported missing on our website."
   },
-  "recordMeta2":  {
-    "message": "trên",
-    "content": "Juan Valdez has been reported missing on our website."
-  },
   "aboutMeta": {
     "message": "Thư viện Y Khoa Quốc Gia, một bộ phận của Viện Y tế Quốc Gia, đã tạo ra trang web này",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
@@ -1154,10 +1098,6 @@
   "aboutMeta2": {
     "message": "tìm kiếm và báo cáo người bị mất tích và vật nuôi trong thiên tai.",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
-  },
-  "helpMeta": {
-    "message": "Tìm hiểu cách tìm và báo cáo người bị mất tích và vật nuôi trong các thảm hoạ trên Thư Viện Y Học Quốc gia",
-    "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
     "message": "Thông tin bổ sung cho Thư viện Y Khoa Quốc Gia",

@@ -319,10 +319,6 @@
     "message": "वही",
     "context": "The word the."
   },
-  "backButton": {
-    "message": "वापस",
-    "context": "The text label for all buttons allowing the user to navigate back."
-  },
   "pagePrivacyBullet1": {
     "message": "रिपोर्ट समारोह",
     "context": "The second half of the first bullet point on the Privacy page."
@@ -395,14 +391,6 @@
     "message": "स्वास्थ्य और मानव सेवा के अमेरिकी विभाग के पंजीकृत ट्रेडमार्क हैं।",
     "context": "The second half of the trademark sentence."
   },
-  "tabDisasterEvents": {
-    "message": "आपद की घटनाओं",
-    "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
-  },
-  "tabFind": {
-    "message": "खोज करना",
-    "context": "The title of the 2nd tab allowing someone to Find a person or pet."
-  },
   "tabReport": {
     "message": "विवरण देना",
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
@@ -430,10 +418,6 @@
   "records": {
     "message": "रेकार्ड",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
-  },
-  "moreDetails": {
-    "message": "अधिक सम्बाद",
-    "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
     "message": "पुरुष",
@@ -491,10 +475,6 @@
     "message": "चालू रखें",
     "context": "A button allows a user to follow record updates."
   },
-    "followButtonLabel": {
-    "message": "ई-मेल के माध्यम से इस व्यक्ति को सब से अपडेट प्राप्त करें",
-    "context": "This is the label below the follow button explaining to a user what it does."
-  },
   "name": {
     "message": "नाम",	
     "context": "This label is displayed under the person or animal name."
@@ -514,10 +494,6 @@
   "lastKnownLocation": {
     "message": "आखरी ज्ञात स्थान",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
-  },
-  "otherInformation": {
-    "message": "अन्य सम्बाद",
-    "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
     "message": "नई रिपोर्ट",
@@ -623,14 +599,6 @@
     "message": "व्यक्ति का लिंग अज्ञात है",
     "context": "The label next to the person sex selection button for unknown."
   },
-  "explainSexMaleA": {
-    "message": "पशु का लिंग पुरुष है",
-    "context": "The label next to the animal sex selection button for male."
-  },
-  "explainSexFemaleA": {
-    "message": "पशु का लिंग नारी है",
-    "context": "The label next to the animal sex selection button for female."
-  },
   "explainSexOtherA": {
     "message": "पशु का लिंग अन्य है",
     "context": "The label next to the animal sex selection button for other."
@@ -686,10 +654,6 @@
   "reportChoiceNameUnknownP": {
     "message": "यदि नाम के बारे में अनिश्चित, कृपया अज्ञात का चुनें",
     "context": "This is the section title displayed for the use to choose name unknown."
-  },
-  "reportChoiceNameUnknownA": {
-    "message": "यदि नाम और साथी पहचान संख्या के बारे में अनिश्चित, कृपया अज्ञात का चुनें",
-    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
     "message": "व्यक्ति की नाम अज्ञात है",
@@ -854,10 +818,6 @@
   "commentBeingSubmittedToast": {
     "message": "टिप्पणी सबमिट किया जा रहा हे।",
     "context": "This toast notification will be displayed while the new comment is being sent in."
-  },
-  "eventInvalid": {
-    "message": "यह घटना ज्ञात नहीं है।",
-    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
     "message": "इस मॉड्यूल ज्ञात नहीं है।",
@@ -1063,14 +1023,6 @@
     "message": "एक भाषा चुनें",
     "context": "We prompt the user to select a language at first visit."
   },
-  "zoomPhoto": {
-    "message": "तस्वीर बढ़ाना",
-    "context": "This is s menu button action that shows a larger version of the image from a record."
-  },
-  "shareRecord": {
-    "message": "इस रेकर्ड को सहभाग करें",
-    "context": "This is a menu button action allowing a user to share a direct link to a record."
-  },
   "additionalInformation": {
     "message": "अधिक जानकारी",
     "context": "This is a label displayed several places titled Additional Information."
@@ -1098,10 +1050,6 @@
   "eventListMeta": {
     "message": "लोगों और जानवरों की खोज करें और उनकी रिपोर्ट करें",
     "context":  "Find and report missing people and animals in any disaster using this website."
-  },
-  "eventListMeta2": {
-    "message": "किसी भी आपद में",
-    "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
     "message": "नेशनल लाइब्रेरी ऑफ़ मेडिसिन का वेबसाइट उपयोग करके ",
@@ -1143,10 +1091,6 @@
     "message": "सूचित किया गया",
     "content": "Juan Valdez has been reported missing on our website."
   },
-  "recordMeta2":  {
-    "message": "पर",
-    "content": "Juan Valdez has been reported missing on our website."
-  },
   "aboutMeta": {
     "message": "नेशनल लाइब्रेरी ऑफ मेडिसिन, नेशनल इंस्टीट्यूट ऑफ हेल्थ का अंश, ने इस वेबसाइट को बनाया है",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
@@ -1154,10 +1098,6 @@
   "aboutMeta2": {
     "message": "आपदाओं के समय लापता लोगों और जानवरों की खोजने और विवरणी के लिए.",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
-  },
-  "helpMeta": {
-    "message": "आप सीखो की नेशनल लाइब्रेरी ऑफ मेडिसिन पर आपदाओं के समय लोगों और जानवरों को कैसे ढूंढें और उनके बारे में जानें।",
-    "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
     "message": "नेशनल लाइब्रेरी ऑफ मेडिसिन के अधिक संसाधनों के लिए",

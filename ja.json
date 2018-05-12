@@ -319,10 +319,6 @@
     "message": "その",
     "context": "The word the."
   },
-  "backButton": {
-    "message": "戻る",
-    "context": "The text label for all buttons allowing the user to navigate back."
-  },
   "pagePrivacyBullet1": {
     "message": "報告機能",
     "context": "The second half ot the first bullet point on the Privacy page."
@@ -395,14 +391,6 @@
     "message": "米国保健福祉省の商標として登録されています。",
     "context": "The second half of the trademark sentence."
   },
-  "tabDisasterEvents": {
-    "message": "災害イベント",
-    "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
-  },
-  "tabFind": {
-    "message": "検索",
-    "context": "The title of the 2nd tab allowing someone to Find a person or animal."
-  },
   "tabReport": {
     "message": "報告",
     "context": "The title of the 3rd tab allowing someone to Report a new person or animal."
@@ -430,10 +418,6 @@
   "records": {
     "message": "レコード",
     "context": "When a search is performed this word is prefixed with the number of results, ie.17 records"
-  },
-  "moreDetails": {
-    "message": "さらに詳細",
-    "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
     "message": "男性",
@@ -491,10 +475,6 @@
     "message": "フォロー",
     "context": "A button allows a user to follow record updates."
   },
-    "followButtonLabel": {
-    "message": "この人についての更新情報をメールにて受付ます",
-    "context": "This is the label below the follow button explaining to a user what it does."
-  },
   "name": {
     "message": "名前",
     "context": "This label is displayed under the person or animal name."
@@ -514,10 +494,6 @@
   "lastKnownLocation": {
     "message": "最終確認場所",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
-  },
-  "otherInformation": {
-    "message": "その他の情報",
-    "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
     "message": "新しい報告",
@@ -623,14 +599,6 @@
     "message": "人の性別は不明",
     "context": "The label next to the person sex selection button for unknown."
   },
-  "explainSexMaleA": {
-    "message": "動物の性別はオス",
-    "context": "The label next to the animal sex selection button for male."
-  },
-  "explainSexFemaleA": {
-    "message": "動物の性別はメス",
-    "context": "The label next to the animal sex selection button for female."
-  },
   "explainSexOtherA": {
     "message": "動物の性別はその他",
     "context": "The label next to the animal sex selection button for other."
@@ -686,10 +654,6 @@
   "reportChoiceNameUnknownP": {
     "message": "もし人の名前が不確かなら、不明を選んで下さい。",
     "context": "This is the section title displayed for the use to choose name unknown."
-  },
-  "reportChoiceNameUnknownA": {
-    "message": "もし動物の名前・登録番号が不確かなら、不明を選んで下さい。",
-    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
     "message": "人の名前は不明",
@@ -854,10 +818,6 @@
   "commentBeingSubmittedToast": {
     "message": "コメントを提出中 ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
-  },
-  "eventInvalid": {
-    "message": "このイベントは存在しません。",
-    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
     "message": "このモジュールは存在しません。",
@@ -1063,14 +1023,6 @@
     "message": "言語を選択する",
     "context": "We prompt the user to select a language at first visit."
   },
-  "zoomPhoto": {
-    "message": "写真を拡大",
-    "context": "This is s menu button action that shows a larger version of the image from a record."
-  },
-  "shareRecord": {
-    "message": "このレコードを共有する",
-    "context": "This is a menu button action allowing a user to share a direct link to a record."
-  },
   "additionalInformation": {
     "message": "追加情報",
     "context": "This is a label displayed several places titled Additional Information."
@@ -1098,10 +1050,6 @@
   "eventListMeta": {
     "message": "行方不明の人や動物を探し報告する",
     "context":  "Find and report missing people and animals in any disaster using this website."
-  },
-  "eventListMeta2": {
-    "message": "災害",
-    "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
     "message": "この国立図書館のウェブサイトを使用してください。",
@@ -1143,10 +1091,6 @@
     "message": "報告されている",
     "content": "Juan Valdez has been reported missing on our website."
   },
-  "recordMeta2":  {
-    "message": "に",
-    "content": "Juan Valdez has been reported missing on our website."
-  },
   "aboutMeta": {
     "message": "国立衛生研究所の一部である国立医学図書館は、このウェブサイトを作成しました",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
@@ -1154,10 +1098,6 @@
   "aboutMeta2": {
     "message": "災害時に行方不明の人や動物を発見し、報告するためのものです。",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
-  },
-  "helpMeta": {
-    "message": "国立医学図書館で災害時に行方不明の人や動物を見つけて報告する方法を学ぶ",
-    "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
     "message": "追加の国立医学図書館のリソース",

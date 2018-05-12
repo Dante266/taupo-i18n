@@ -319,10 +319,6 @@
     "message": "本",
     "context": "The word the."
   },
-  "backButton": {
-    "message": "返回",
-    "context": "The text label for all buttons allowing the user to navigate back."
-  },
   "pagePrivacyBullet1": {
     "message": "報告功能",
     "context": "The second half ot the first bullet point on the Privacy page."
@@ -395,14 +391,6 @@
     "message": "是美國衛生與公眾服務部(HHS)的註冊商標。",
     "context": "The second half of the trademark sentence."
   },
-  "tabDisasterEvents": {
-    "message": "災難事件",
-    "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
-  },
-  "tabFind": {
-    "message": "尋找",
-    "context": "The title of the 2nd tab allowing someone to Find a person or pet."
-  },
   "tabReport": {
     "message": "報告",
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
@@ -430,10 +418,6 @@
   "records": {
     "message": "報告",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
-  },
-  "moreDetails": {
-    "message": "更多細節",
-    "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
     "message": "男",
@@ -491,10 +475,6 @@
     "message": "跟隨",
     "context": "A button allows a user to follow record updates."
   },
-  "followButtonLabel": {
-    "message": "通過電子郵件接收有關此人的更新信息",
-    "context": "This is the label below the follow button explaining to a user what it does."
-  },
   "name": {
     "message": "名字",
     "context": "This label is displayed under the person or animal name."
@@ -514,10 +494,6 @@
   "lastKnownLocation": {
     "message": "已知的最後位置",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
-  },
-  "otherInformation": {
-    "message": "其他信息",
-    "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
     "message": "新報告",
@@ -623,14 +599,6 @@
     "message": "性別是未知",
     "context": "The label next to the person sex selection button for unknown."
   },
-  "explainSexMaleA": {
-    "message": "寵物是公的",
-    "context": "The label next to the animal sex selection button for male."
-  },
-  "explainSexFemaleA": {
-    "message": "寵物是母的",
-    "context": "The label next to the animal sex selection button for female."
-  },
   "explainSexOtherA": {
     "message": "寵物性別是其他",
     "context": "The label next to the animal sex selection button for other."
@@ -686,10 +654,6 @@
   "reportChoiceNameUnknownP": {
     "message": "如果不確定人名字，請選擇未知。",
     "context": "This is the section title displayed for the use to choose name unknown."
-  },
-  "reportChoiceNameUnknownA": {
-    "message": "如果不確定寵物名字和識別編號，請選擇未知。",
-    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
     "message": "人的名字未知",
@@ -854,10 +818,6 @@
   "commentBeingSubmittedToast": {
     "message": "正在提交評論...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
-  },
-  "eventInvalid": {
-    "message": "此事件不存在。",
-    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
     "message": "此模塊不存在。",
@@ -1063,14 +1023,6 @@
     "message": "選擇語言",
     "context": "We prompt the user to select a language at first visit."
   },
-  "zoomPhoto": {
-    "message": "放大照片",
-    "context": "This is s menu button action that shows a larger version of the image from a record."
-  },
-  "shareRecord": {
-    "message": "分享這壹記錄",
-    "context": "This is a menu button action allowing a user to share a direct link to a record."
-  },
   "additionalInformation": {
     "message": "附加信息",
     "context": "This is a label displayed several places titled Additional Information."
@@ -1098,10 +1050,6 @@
   "eventListMeta": {
     "message": "查找並報告失蹤的人和動物",
     "context":  "Find and report missing people and animals in any disaster using this website."
-  },
-  "eventListMeta2": {
-    "message": "任何災難",
-    "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
     "message": "使用此國家醫學圖書館網站。",
@@ -1143,10 +1091,6 @@
     "message": "已被報道",
     "content": "Juan Valdez has been reported missing on our website."
   },
-  "recordMeta2":  {
-    "message": "在",
-    "content": "Juan Valdez has been reported missing on our website."
-  },
   "aboutMeta": {
     "message": "美國國家圖書館，隸屬美國國家衛生研究院，建立了此網站",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
@@ -1154,10 +1098,6 @@
   "aboutMeta2": {
     "message": "在災害期間查找和報告失蹤的人和動物。",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
-  },
-  "helpMeta": {
-    "message": "學習如何在國家醫學圖書館的NLM PEOPLE LOCATOR網站上，查找在災難中失蹤的人和動物",
-    "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
     "message": "附加的國家醫學圖書館資源",

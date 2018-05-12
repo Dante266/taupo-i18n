@@ -319,10 +319,6 @@
     "message": "the",
     "context": "The word the."
   },
-  "backButton": {
-    "message": "BACK",
-    "context": "The text label for all buttons allowing the user to navigate back."
-  },
   "pagePrivacyBullet1": {
     "message": "report function",
     "context": "The second half ot the first bullet point on the Privacy page."
@@ -395,14 +391,6 @@
     "message": "are registered trademarks of the U.S. Department of Health & Human Services.",
     "context": "The second half of the trademark sentence."
   },
-  "tabDisasterEvents": {
-    "message": "Disaster Events",
-    "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
-  },
-  "tabFind": {
-    "message": "Find",
-    "context": "The title of the 2nd tab allowing someone to Find a person or animal."
-  },
   "tabReport": {
     "message": "Report",
     "context": "The title of the 3rd tab allowing someone to Report a new person or animal."
@@ -430,10 +418,6 @@
   "records": {
     "message": "records",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
-  },
-  "moreDetails": {
-    "message": "More Details",
-    "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
     "message": "Male",
@@ -491,10 +475,6 @@
     "message": "Follow",
     "context": "A button allows a user to follow record updates."
   },
-    "followButtonLabel": {
-    "message": "Receive all updates to this person via email",
-    "context": "This is the label below the follow button explaining to a user what it does."
-  },
   "name": {
     "message": "Name",
     "context": "This label is displayed under the person or animal name."
@@ -514,10 +494,6 @@
   "lastKnownLocation": {
     "message": "Last Known Location",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
-  },
-  "otherInformation": {
-    "message": "Other Information",
-    "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
     "message": "New Report",
@@ -623,14 +599,6 @@
     "message": "gender of person is unknown",
     "context": "The label next to the person sex selection button for unknown."
   },
-  "explainSexMaleA": {
-    "message": "gender of animal is male",
-    "context": "The label next to the animal sex selection button for male."
-  },
-  "explainSexFemaleA": {
-    "message": "gender of animal is female",
-    "context": "The label next to the animal sex selection button for female."
-  },
   "explainSexOtherA": {
     "message": "gender of animal is other",
     "context": "The label next to the animal sex selection button for other."
@@ -686,10 +654,6 @@
   "reportChoiceNameUnknownP": {
     "message": "If unsure of the name, please select unknown.",
     "context": "This is the section title displayed for the use to choose name unknown."
-  },
-  "reportChoiceNameUnknownA": {
-    "message": "If unsure of the name and buddy identification number, please select unknown.",
-    "context": "This is the section title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
     "message": "name of person is unknown",
@@ -854,10 +818,6 @@
   "commentBeingSubmittedToast": {
     "message": "Comment being submitted ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
-  },
-  "eventInvalid": {
-    "message": "This event does not exist.",
-    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
     "message": "This module does not exist.",
@@ -1063,14 +1023,6 @@
     "message": "Choose a language",
     "context": "We prompt the user to select a language at first visit."
   },
-  "zoomPhoto": {
-    "message": "Enlarge Photo",
-    "context": "This is s menu button action that shows a larger version of the image from a record."
-  },
-  "shareRecord": {
-    "message": "Share this record",
-    "context": "This is a menu button action allowing a user to share a direct link to a record."
-  },
   "additionalInformation": {
     "message": "Additional Information",
     "context": "This is a label displayed several places titled Additional Information."
@@ -1098,10 +1050,6 @@
   "eventListMeta": {
     "message": "Find and report missing people and animals in",
     "context":  "Find and report missing people and animals in any disaster using this website."
-  },
-  "eventListMeta2": {
-    "message": "any disaster",
-    "context": "Find missing people and animals in any disaster using this website."
   },
   "eventListMeta3": {
     "message": "using this National Library of Medicine website.",
@@ -1143,10 +1091,6 @@
     "message": "has been reported",
     "content": "Juan Valdez has been reported missing on our website."
   },
-  "recordMeta2":  {
-    "message": "on",
-    "content": "Juan Valdez has been reported missing on our website."
-  },
   "aboutMeta": {
     "message": "The National Library of Medicine, part of the National Institutes of Health, created this website",
     "content": "The National Library of Medicine, part of the National Institutes of Health, created this website for the public."
@@ -1154,10 +1098,6 @@
   "aboutMeta2": {
     "message": "for finding and reporting missing people and animals during disasters.",
     "content": "We created this website for finding and reporting missing people and animals during disasters."
-  },
-  "helpMeta": {
-    "message": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's",
-    "content": "Learn how to find and report missing people and animals during disasters on the National Library of Medicine's NLM PEOPLE LOCATOR."
   },
   "resourceMeta": {
     "message": "Additional National Library of Medicine resources for",
